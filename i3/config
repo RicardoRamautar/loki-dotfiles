@@ -199,3 +199,20 @@ bindsym $mod+r mode "resize"
 # bar {
 #         status_command i3status
 # }
+
+
+# Border color for focused windows
+client.focused          #BFECFF #BFECFF #BFECFF #BFECFF
+
+# Border color for inactive (unfocused) windows
+client.focused_inactive #333333 #222222 #888888 #292d3e
+
+# Border color for completely unfocused windows
+client.unfocused        #333333 #222222 #888888 #292d3e
+
+# Border color for urgent windows
+client.urgent           #900000 #900000 #ffffff #900000
+
+# Set border size
+for_window [class=".*"] border pixel 5
+
