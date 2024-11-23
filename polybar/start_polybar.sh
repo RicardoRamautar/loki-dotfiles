@@ -7,6 +7,7 @@ killall -q polybar
 while pgrep -u $UID -x polybar >/dev/null; do sleep 1; done
 
 # Launch Polybar
-polybar example &
+# polybar example &
+polybar -c ~/.config/polybar/bars/simple_tropical.ini simply_tropical
 
 echo "Polybar launched..."
