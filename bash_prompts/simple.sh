@@ -6,13 +6,13 @@ red="\[\e[38;2;212;42;69m\]"            # #D42A45
 light_yellow="\[\e[38;2;249;231;159m\]" # #F9E79F
 
 # Glyphs
-folder=
-folder2=🗁
-folder3=
-ubuntu=
-triangle=$'\uE0B0'
+folder= 
+git_logo= 
+time=󰔟
+arrow=─❱
 lower_bend=$'\u256d'
 upper_bend=$'\u2570'
+separator=⟩
 
 # Commands
 reset="\[\e[0m\]"  # Reset to default colors
@@ -23,7 +23,7 @@ italic="\[\e[3m\]"
 # Load Git functions
 parse_git_bg() {
   if git status -s &>/dev/null; then
-    echo -e "⟩  $(__git_ps1 '%s')"
+    echo -e " ${separator}  ${git_logo} $(__git_ps1 '%s')"
   fi
 }
 
@@ -32,14 +32,14 @@ PS1="\[\e]0;\w\a\]"
 
 # First line
 PS1+="${bright_blue}${lower_bend}─${reset}"
-PS1+="${bright_blue}   \W${reset}"
+PS1+="${bright_blue} ${folder}  \W${reset}"
 PS1+="${red} \$(parse_git_bg)${reset}"
-PS1+="${light_yellow} ⟩  󰔟 \$(date +%H:%M)${reset}"
+PS1+="${light_yellow}  ${separator}  ${time} \$(date +%H:%M)${reset}"
 
 # New line
 PS1+="\n"
 
 # Second line
-PS1+="${neon_green}${upper_bend}─❱ ${reset} "
+PS1+="${neon_green}${upper_bend}${arrow} ${reset} "
 
 export PS1
