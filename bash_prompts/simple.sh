@@ -27,7 +27,8 @@ parse_git_bg() {
   fi
 }
 
-PS1=""
+# Set window title for kitty tab_bar
+PS1="\[\e]0;\w\a\]"
 
 # First line
 PS1+="${bright_blue}${lower_bend}─${reset}"
