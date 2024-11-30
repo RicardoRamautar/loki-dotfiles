@@ -20,6 +20,12 @@ exec --no-startup-id nvidia-settings -a [gpu:0]/GpuPowerMizerMode=1
 # Gaps
 gaps inner 15
 
+# Start clipmenud to use clipmenu clipboard manager
+exec --no-startup-id systemctl --user start clipmenud.service
+
+# Create keybinding for clipmenu
+bindsym $mod+x exec clipmenu
+
 # Start polybar
 # exec-always --no-startup-id polybar example
 exec_always --no-startup-id ~/.config/polybar/start_polybar.sh
@@ -209,9 +215,11 @@ bindsym $mod+r mode "resize"
 
 # Border color for focused windows - 1. border color - 2. background window title bar - 3. text window titlebar - 4. indicator color
 client.focused          #BFECFF #BFECFF #BFECFF #BFECFF
-client.focused_inactive #00000000  #00000000  #00000000  #00000000 
-client.unfocused        #00000000  #00000000  #00000000  #00000000 
+client.focused_inactive #00566573  #00566573  #00566573  #00566573 
+client.unfocused        #00566573  #00566573  #00566573  #00566573 
 client.urgent           #900000 #900000 #ffffff #900000
+
+ #00566573 
 
 # Set border size
 for_window [class=".*"] border pixel 3
