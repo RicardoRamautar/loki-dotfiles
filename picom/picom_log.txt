@@ -1,0 +1,1341 @@
+[ 11/16/2024 07:11:09.358 reset_enable INFO ] picom is resetting...
+[ 11/16/2024 07:11:09.419 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/16/2024 07:11:51.334 reset_enable INFO ] picom is resetting...
+[ 11/16/2024 07:11:51.396 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/16/2024 07:12:15.131 reset_enable INFO ] picom is resetting...
+[ 11/16/2024 07:12:15.190 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/16/2024 07:12:33.992 reset_enable INFO ] picom is resetting...
+[ 11/16/2024 07:12:34.016 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/16/2024 07:12:54.094 reset_enable INFO ] picom is resetting...
+[ 11/16/2024 07:12:54.151 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/16/2024 07:13:18.913 reset_enable INFO ] picom is resetting...
+[ 11/16/2024 07:13:18.936 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/16/2024 07:27:27.743 reset_enable INFO ] picom is resetting...
+[ 11/16/2024 07:27:50.835 glxext_init INFO ] Extension GLX_SGI_video_sync - present
+[ 11/16/2024 07:27:50.836 glxext_init INFO ] Extension GLX_SGI_swap_control - present
+[ 11/16/2024 07:27:50.836 glxext_init INFO ] Extension GLX_OML_sync_control - absent
+[ 11/16/2024 07:27:50.836 glxext_init INFO ] Extension GLX_MESA_swap_control - absent
+[ 11/16/2024 07:27:50.836 glxext_init INFO ] Extension GLX_EXT_swap_control - present
+[ 11/16/2024 07:27:50.836 glxext_init INFO ] Extension GLX_EXT_texture_from_pixmap - present
+[ 11/16/2024 07:27:50.836 glxext_init INFO ] Extension GLX_ARB_create_context - present
+[ 11/16/2024 07:27:50.836 glxext_init INFO ] Extension GLX_EXT_buffer_age - present
+[ 11/16/2024 07:27:50.836 glxext_init INFO ] Extension GLX_ARB_create_context_robustness - present
+[ 11/16/2024 07:27:50.836 glxext_init INFO ] Extension GLX_MESA_query_renderer - absent
+[ 11/16/2024 07:27:50.879 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/16/2024 07:29:04.308 reset_enable INFO ] picom is resetting...
+[ 11/16/2024 07:29:04.385 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/16/2024 07:29:28.213 reset_enable INFO ] picom is resetting...
+[ 11/16/2024 07:29:28.285 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/16/2024 07:33:59.550 reset_enable INFO ] picom is resetting...
+[ 11/16/2024 07:33:59.576 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/16/2024 07:35:24.697 reset_enable INFO ] picom is resetting...
+[ 11/16/2024 07:35:24.765 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/16/2024 07:35:37.257 reset_enable INFO ] picom is resetting...
+[ 11/16/2024 07:35:37.332 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/16/2024 07:35:56.785 exit_enable INFO ] picom is quitting...
+[ 11/16/2024 07:36:05.881 glxext_init INFO ] Extension GLX_SGI_video_sync - present
+[ 11/16/2024 07:36:05.882 glxext_init INFO ] Extension GLX_SGI_swap_control - present
+[ 11/16/2024 07:36:05.882 glxext_init INFO ] Extension GLX_OML_sync_control - absent
+[ 11/16/2024 07:36:05.882 glxext_init INFO ] Extension GLX_MESA_swap_control - absent
+[ 11/16/2024 07:36:05.882 glxext_init INFO ] Extension GLX_EXT_swap_control - present
+[ 11/16/2024 07:36:05.882 glxext_init INFO ] Extension GLX_EXT_texture_from_pixmap - present
+[ 11/16/2024 07:36:05.882 glxext_init INFO ] Extension GLX_ARB_create_context - present
+[ 11/16/2024 07:36:05.882 glxext_init INFO ] Extension GLX_EXT_buffer_age - present
+[ 11/16/2024 07:36:05.882 glxext_init INFO ] Extension GLX_ARB_create_context_robustness - present
+[ 11/16/2024 07:36:05.882 glxext_init INFO ] Extension GLX_MESA_query_renderer - absent
+[ 11/16/2024 07:36:05.924 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/16/2024 07:36:05.925 redirect_start INFO ] Using vblank scheduler: sgi_video_sync.
+[ 11/16/2024 07:36:05.938 sgi_video_sync_scheduler_init INFO ] Started sgi_video_sync_thread
+[ 11/16/2024 07:36:05.942 sgi_video_sync_scheduler_callback WARN ] Duplicate vblank event found with msc 0. Possible NVIDIA bug? Number of duplicates so far: 0
+[ 11/16/2024 07:36:23.750 exit_enable INFO ] picom is quitting...
+[ 11/16/2024 07:36:25.688 glxext_init INFO ] Extension GLX_SGI_video_sync - present
+[ 11/16/2024 07:36:25.688 glxext_init INFO ] Extension GLX_SGI_swap_control - present
+[ 11/16/2024 07:36:25.688 glxext_init INFO ] Extension GLX_OML_sync_control - absent
+[ 11/16/2024 07:36:25.688 glxext_init INFO ] Extension GLX_MESA_swap_control - absent
+[ 11/16/2024 07:36:25.688 glxext_init INFO ] Extension GLX_EXT_swap_control - present
+[ 11/16/2024 07:36:25.688 glxext_init INFO ] Extension GLX_EXT_texture_from_pixmap - present
+[ 11/16/2024 07:36:25.688 glxext_init INFO ] Extension GLX_ARB_create_context - present
+[ 11/16/2024 07:36:25.688 glxext_init INFO ] Extension GLX_EXT_buffer_age - present
+[ 11/16/2024 07:36:25.688 glxext_init INFO ] Extension GLX_ARB_create_context_robustness - present
+[ 11/16/2024 07:36:25.688 glxext_init INFO ] Extension GLX_MESA_query_renderer - absent
+[ 11/16/2024 07:36:25.744 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/16/2024 07:38:23.910 reset_enable INFO ] picom is resetting...
+[ 11/16/2024 07:38:23.982 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/16/2024 07:38:23.982 redirect_start INFO ] Using vblank scheduler: sgi_video_sync.
+[ 11/16/2024 07:38:24.007 sgi_video_sync_scheduler_init INFO ] Started sgi_video_sync_thread
+[ 11/16/2024 07:38:24.010 sgi_video_sync_scheduler_callback WARN ] Duplicate vblank event found with msc 0. Possible NVIDIA bug? Number of duplicates so far: 0
+[ 11/16/2024 07:39:32.510 reset_enable INFO ] picom is resetting...
+[ 11/16/2024 07:39:32.545 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/16/2024 07:39:43.011 reset_enable INFO ] picom is resetting...
+[ 11/16/2024 07:39:43.021 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/16/2024 07:39:43.021 redirect_start INFO ] Using vblank scheduler: sgi_video_sync.
+[ 11/16/2024 07:39:43.040 sgi_video_sync_scheduler_init INFO ] Started sgi_video_sync_thread
+[ 11/16/2024 07:39:43.043 sgi_video_sync_scheduler_callback WARN ] Duplicate vblank event found with msc 0. Possible NVIDIA bug? Number of duplicates so far: 0
+[ 11/16/2024 07:55:21.439 reset_enable INFO ] picom is resetting...
+[ 11/16/2024 07:55:21.517 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/16/2024 07:55:21.518 redirect_start INFO ] Using vblank scheduler: sgi_video_sync.
+[ 11/16/2024 07:55:21.562 sgi_video_sync_scheduler_init INFO ] Started sgi_video_sync_thread
+[ 11/16/2024 07:55:21.565 sgi_video_sync_scheduler_callback WARN ] Duplicate vblank event found with msc 0. Possible NVIDIA bug? Number of duplicates so far: 0
+[ 11/16/2024 07:58:21.592 reset_enable INFO ] picom is resetting...
+[ 11/16/2024 07:58:21.694 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/16/2024 07:58:21.695 redirect_start INFO ] Using vblank scheduler: sgi_video_sync.
+[ 11/16/2024 07:58:21.730 sgi_video_sync_scheduler_init INFO ] Started sgi_video_sync_thread
+[ 11/16/2024 07:58:21.733 sgi_video_sync_scheduler_callback WARN ] Duplicate vblank event found with msc 0. Possible NVIDIA bug? Number of duplicates so far: 0
+[ 11/16/2024 07:59:20.406 reset_enable INFO ] picom is resetting...
+[ 11/16/2024 07:59:26.765 glxext_init INFO ] Extension GLX_SGI_video_sync - present
+[ 11/16/2024 07:59:26.765 glxext_init INFO ] Extension GLX_SGI_swap_control - present
+[ 11/16/2024 07:59:26.765 glxext_init INFO ] Extension GLX_OML_sync_control - absent
+[ 11/16/2024 07:59:26.765 glxext_init INFO ] Extension GLX_MESA_swap_control - absent
+[ 11/16/2024 07:59:26.765 glxext_init INFO ] Extension GLX_EXT_swap_control - present
+[ 11/16/2024 07:59:26.765 glxext_init INFO ] Extension GLX_EXT_texture_from_pixmap - present
+[ 11/16/2024 07:59:26.765 glxext_init INFO ] Extension GLX_ARB_create_context - present
+[ 11/16/2024 07:59:26.765 glxext_init INFO ] Extension GLX_EXT_buffer_age - present
+[ 11/16/2024 07:59:26.765 glxext_init INFO ] Extension GLX_ARB_create_context_robustness - present
+[ 11/16/2024 07:59:26.765 glxext_init INFO ] Extension GLX_MESA_query_renderer - absent
+[ 11/16/2024 07:59:26.812 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/16/2024 07:59:26.813 redirect_start INFO ] Using vblank scheduler: sgi_video_sync.
+[ 11/16/2024 07:59:26.831 sgi_video_sync_scheduler_init INFO ] Started sgi_video_sync_thread
+[ 11/16/2024 07:59:26.839 sgi_video_sync_scheduler_callback WARN ] Duplicate vblank event found with msc 0. Possible NVIDIA bug? Number of duplicates so far: 0
+[ 11/16/2024 08:03:36.598 reset_enable INFO ] picom is resetting...
+[ 11/16/2024 08:03:36.640 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/16/2024 08:03:36.641 redirect_start INFO ] Using vblank scheduler: sgi_video_sync.
+[ 11/16/2024 08:03:36.674 sgi_video_sync_scheduler_init INFO ] Started sgi_video_sync_thread
+[ 11/16/2024 08:03:36.678 sgi_video_sync_scheduler_callback WARN ] Duplicate vblank event found with msc 0. Possible NVIDIA bug? Number of duplicates so far: 0
+[ 11/16/2024 08:11:02.266 reset_enable INFO ] picom is resetting...
+[ 11/16/2024 08:11:02.303 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/16/2024 08:11:02.304 redirect_start INFO ] Using vblank scheduler: sgi_video_sync.
+[ 11/16/2024 08:11:02.328 sgi_video_sync_scheduler_init INFO ] Started sgi_video_sync_thread
+[ 11/16/2024 08:11:02.330 sgi_video_sync_scheduler_callback WARN ] Duplicate vblank event found with msc 0. Possible NVIDIA bug? Number of duplicates so far: 0
+[ 11/16/2024 08:11:13.034 reset_enable INFO ] picom is resetting...
+[ 11/16/2024 08:11:13.069 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/16/2024 08:11:13.069 redirect_start INFO ] Using vblank scheduler: sgi_video_sync.
+[ 11/16/2024 08:11:13.097 sgi_video_sync_scheduler_init INFO ] Started sgi_video_sync_thread
+[ 11/16/2024 08:11:13.100 sgi_video_sync_scheduler_callback WARN ] Duplicate vblank event found with msc 0. Possible NVIDIA bug? Number of duplicates so far: 0
+[ 11/16/2024 08:11:15.680 exit_enable INFO ] picom is quitting...
+[ 11/16/2024 08:11:30.532 glxext_init INFO ] Extension GLX_SGI_video_sync - present
+[ 11/16/2024 08:11:30.532 glxext_init INFO ] Extension GLX_SGI_swap_control - present
+[ 11/16/2024 08:11:30.532 glxext_init INFO ] Extension GLX_OML_sync_control - absent
+[ 11/16/2024 08:11:30.532 glxext_init INFO ] Extension GLX_MESA_swap_control - absent
+[ 11/16/2024 08:11:30.532 glxext_init INFO ] Extension GLX_EXT_swap_control - present
+[ 11/16/2024 08:11:30.532 glxext_init INFO ] Extension GLX_EXT_texture_from_pixmap - present
+[ 11/16/2024 08:11:30.532 glxext_init INFO ] Extension GLX_ARB_create_context - present
+[ 11/16/2024 08:11:30.532 glxext_init INFO ] Extension GLX_EXT_buffer_age - present
+[ 11/16/2024 08:11:30.532 glxext_init INFO ] Extension GLX_ARB_create_context_robustness - present
+[ 11/16/2024 08:11:30.532 glxext_init INFO ] Extension GLX_MESA_query_renderer - absent
+[ 11/16/2024 08:11:30.565 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/16/2024 08:11:30.566 redirect_start INFO ] Using vblank scheduler: sgi_video_sync.
+[ 11/16/2024 08:11:30.575 sgi_video_sync_scheduler_init INFO ] Started sgi_video_sync_thread
+[ 11/16/2024 08:11:30.577 sgi_video_sync_scheduler_callback WARN ] Duplicate vblank event found with msc 0. Possible NVIDIA bug? Number of duplicates so far: 0
+[ 11/16/2024 08:18:46.416 exit_enable INFO ] picom is quitting...
+[ 11/16/2024 08:18:48.979 glxext_init INFO ] Extension GLX_SGI_video_sync - present
+[ 11/16/2024 08:18:48.979 glxext_init INFO ] Extension GLX_SGI_swap_control - present
+[ 11/16/2024 08:18:48.979 glxext_init INFO ] Extension GLX_OML_sync_control - absent
+[ 11/16/2024 08:18:48.979 glxext_init INFO ] Extension GLX_MESA_swap_control - absent
+[ 11/16/2024 08:18:48.979 glxext_init INFO ] Extension GLX_EXT_swap_control - present
+[ 11/16/2024 08:18:48.979 glxext_init INFO ] Extension GLX_EXT_texture_from_pixmap - present
+[ 11/16/2024 08:18:48.979 glxext_init INFO ] Extension GLX_ARB_create_context - present
+[ 11/16/2024 08:18:48.979 glxext_init INFO ] Extension GLX_EXT_buffer_age - present
+[ 11/16/2024 08:18:48.980 glxext_init INFO ] Extension GLX_ARB_create_context_robustness - present
+[ 11/16/2024 08:18:48.980 glxext_init INFO ] Extension GLX_MESA_query_renderer - absent
+[ 11/16/2024 08:18:49.011 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/16/2024 08:18:49.012 redirect_start INFO ] Disabling frame pacing.
+[ 11/16/2024 08:19:46.524 glxext_init INFO ] Extension GLX_SGI_video_sync - present
+[ 11/16/2024 08:19:46.524 glxext_init INFO ] Extension GLX_SGI_swap_control - present
+[ 11/16/2024 08:19:46.524 glxext_init INFO ] Extension GLX_OML_sync_control - absent
+[ 11/16/2024 08:19:46.524 glxext_init INFO ] Extension GLX_MESA_swap_control - absent
+[ 11/16/2024 08:19:46.524 glxext_init INFO ] Extension GLX_EXT_swap_control - present
+[ 11/16/2024 08:19:46.524 glxext_init INFO ] Extension GLX_EXT_texture_from_pixmap - present
+[ 11/16/2024 08:19:46.524 glxext_init INFO ] Extension GLX_ARB_create_context - present
+[ 11/16/2024 08:19:46.524 glxext_init INFO ] Extension GLX_EXT_buffer_age - present
+[ 11/16/2024 08:19:46.524 glxext_init INFO ] Extension GLX_ARB_create_context_robustness - present
+[ 11/16/2024 08:19:46.524 glxext_init INFO ] Extension GLX_MESA_query_renderer - absent
+[ 11/16/2024 08:19:46.557 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/16/2024 08:19:46.558 redirect_start INFO ] Using vblank scheduler: sgi_video_sync.
+[ 11/16/2024 08:19:46.567 sgi_video_sync_scheduler_init INFO ] Started sgi_video_sync_thread
+[ 11/16/2024 08:19:46.570 sgi_video_sync_scheduler_callback WARN ] Duplicate vblank event found with msc 0. Possible NVIDIA bug? Number of duplicates so far: 0
+[ 11/16/2024 08:21:11.864 reset_enable INFO ] picom is resetting...
+[ 11/16/2024 08:21:11.951 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/16/2024 08:21:11.952 redirect_start INFO ] Using vblank scheduler: sgi_video_sync.
+[ 11/16/2024 08:21:11.982 sgi_video_sync_scheduler_init INFO ] Started sgi_video_sync_thread
+[ 11/16/2024 08:21:11.984 sgi_video_sync_scheduler_callback WARN ] Duplicate vblank event found with msc 0. Possible NVIDIA bug? Number of duplicates so far: 0
+[ 11/16/2024 08:21:22.297 reset_enable INFO ] picom is resetting...
+[ 11/16/2024 08:21:22.335 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/16/2024 08:21:22.336 redirect_start INFO ] Using vblank scheduler: sgi_video_sync.
+[ 11/16/2024 08:21:22.361 sgi_video_sync_scheduler_init INFO ] Started sgi_video_sync_thread
+[ 11/16/2024 08:21:22.363 sgi_video_sync_scheduler_callback WARN ] Duplicate vblank event found with msc 0. Possible NVIDIA bug? Number of duplicates so far: 0
+[ 11/16/2024 08:27:14.093 exit_enable INFO ] picom is quitting...
+[ 11/16/2024 08:27:17.665 glxext_init INFO ] Extension GLX_SGI_video_sync - present
+[ 11/16/2024 08:27:17.665 glxext_init INFO ] Extension GLX_SGI_swap_control - present
+[ 11/16/2024 08:27:17.665 glxext_init INFO ] Extension GLX_OML_sync_control - absent
+[ 11/16/2024 08:27:17.665 glxext_init INFO ] Extension GLX_MESA_swap_control - absent
+[ 11/16/2024 08:27:17.665 glxext_init INFO ] Extension GLX_EXT_swap_control - present
+[ 11/16/2024 08:27:17.665 glxext_init INFO ] Extension GLX_EXT_texture_from_pixmap - present
+[ 11/16/2024 08:27:17.665 glxext_init INFO ] Extension GLX_ARB_create_context - present
+[ 11/16/2024 08:27:17.665 glxext_init INFO ] Extension GLX_EXT_buffer_age - present
+[ 11/16/2024 08:27:17.665 glxext_init INFO ] Extension GLX_ARB_create_context_robustness - present
+[ 11/16/2024 08:27:17.665 glxext_init INFO ] Extension GLX_MESA_query_renderer - absent
+[ 11/16/2024 08:27:17.696 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/16/2024 08:27:17.697 redirect_start INFO ] Using vblank scheduler: sgi_video_sync.
+[ 11/16/2024 08:27:17.705 sgi_video_sync_scheduler_init INFO ] Started sgi_video_sync_thread
+[ 11/16/2024 08:27:17.708 sgi_video_sync_scheduler_callback WARN ] Duplicate vblank event found with msc 0. Possible NVIDIA bug? Number of duplicates so far: 0
+[ 11/16/2024 08:27:38.193 exit_enable INFO ] picom is quitting...
+[ 11/16/2024 08:27:39.432 glxext_init INFO ] Extension GLX_SGI_video_sync - present
+[ 11/16/2024 08:27:39.432 glxext_init INFO ] Extension GLX_SGI_swap_control - present
+[ 11/16/2024 08:27:39.432 glxext_init INFO ] Extension GLX_OML_sync_control - absent
+[ 11/16/2024 08:27:39.432 glxext_init INFO ] Extension GLX_MESA_swap_control - absent
+[ 11/16/2024 08:27:39.432 glxext_init INFO ] Extension GLX_EXT_swap_control - present
+[ 11/16/2024 08:27:39.432 glxext_init INFO ] Extension GLX_EXT_texture_from_pixmap - present
+[ 11/16/2024 08:27:39.432 glxext_init INFO ] Extension GLX_ARB_create_context - present
+[ 11/16/2024 08:27:39.432 glxext_init INFO ] Extension GLX_EXT_buffer_age - present
+[ 11/16/2024 08:27:39.432 glxext_init INFO ] Extension GLX_ARB_create_context_robustness - present
+[ 11/16/2024 08:27:39.432 glxext_init INFO ] Extension GLX_MESA_query_renderer - absent
+[ 11/16/2024 08:27:39.472 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/16/2024 08:27:39.473 redirect_start INFO ] Using vblank scheduler: sgi_video_sync.
+[ 11/16/2024 08:27:39.484 sgi_video_sync_scheduler_init INFO ] Started sgi_video_sync_thread
+[ 11/16/2024 08:27:39.486 sgi_video_sync_scheduler_callback WARN ] Duplicate vblank event found with msc 0. Possible NVIDIA bug? Number of duplicates so far: 0
+[ 11/16/2024 08:30:00.996 reset_enable INFO ] picom is resetting...
+[ 11/16/2024 08:30:01.023 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/16/2024 08:30:01.023 redirect_start INFO ] Using vblank scheduler: sgi_video_sync.
+[ 11/16/2024 08:30:01.049 sgi_video_sync_scheduler_init INFO ] Started sgi_video_sync_thread
+[ 11/16/2024 08:30:01.052 sgi_video_sync_scheduler_callback WARN ] Duplicate vblank event found with msc 0. Possible NVIDIA bug? Number of duplicates so far: 0
+[ 11/16/2024 08:30:05.816 reset_enable INFO ] picom is resetting...
+[ 11/16/2024 08:30:05.844 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/16/2024 08:30:05.844 redirect_start INFO ] Using vblank scheduler: sgi_video_sync.
+[ 11/16/2024 08:30:05.870 sgi_video_sync_scheduler_init INFO ] Started sgi_video_sync_thread
+[ 11/16/2024 08:30:05.872 sgi_video_sync_scheduler_callback WARN ] Duplicate vblank event found with msc 0. Possible NVIDIA bug? Number of duplicates so far: 0
+[ 11/16/2024 08:30:12.666 reset_enable INFO ] picom is resetting...
+[ 11/16/2024 08:30:12.750 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/16/2024 08:30:12.752 redirect_start INFO ] Using vblank scheduler: sgi_video_sync.
+[ 11/16/2024 08:30:12.794 sgi_video_sync_scheduler_init INFO ] Started sgi_video_sync_thread
+[ 11/16/2024 08:30:12.799 sgi_video_sync_scheduler_callback WARN ] Duplicate vblank event found with msc 0. Possible NVIDIA bug? Number of duplicates so far: 0
+[ 11/16/2024 08:30:19.187 reset_enable INFO ] picom is resetting...
+[ 11/16/2024 08:30:19.232 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/16/2024 08:30:19.232 redirect_start INFO ] Using vblank scheduler: sgi_video_sync.
+[ 11/16/2024 08:30:19.261 sgi_video_sync_scheduler_init INFO ] Started sgi_video_sync_thread
+[ 11/16/2024 08:30:19.264 sgi_video_sync_scheduler_callback WARN ] Duplicate vblank event found with msc 0. Possible NVIDIA bug? Number of duplicates so far: 0
+[ 11/16/2024 08:30:31.399 reset_enable INFO ] picom is resetting...
+[ 11/16/2024 08:30:31.453 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/16/2024 08:30:31.453 redirect_start INFO ] Using vblank scheduler: sgi_video_sync.
+[ 11/16/2024 08:30:31.486 sgi_video_sync_scheduler_init INFO ] Started sgi_video_sync_thread
+[ 11/16/2024 08:30:31.489 sgi_video_sync_scheduler_callback WARN ] Duplicate vblank event found with msc 0. Possible NVIDIA bug? Number of duplicates so far: 0
+[ 11/16/2024 08:30:45.015 reset_enable INFO ] picom is resetting...
+[ 11/16/2024 08:30:45.123 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/16/2024 08:30:45.124 redirect_start INFO ] Using vblank scheduler: sgi_video_sync.
+[ 11/16/2024 08:30:45.158 sgi_video_sync_scheduler_init INFO ] Started sgi_video_sync_thread
+[ 11/16/2024 08:30:45.160 sgi_video_sync_scheduler_callback WARN ] Duplicate vblank event found with msc 0. Possible NVIDIA bug? Number of duplicates so far: 0
+[ 11/16/2024 08:32:54.847 exit_enable INFO ] picom is quitting...
+[ 11/16/2024 08:32:55.512 glxext_init INFO ] Extension GLX_SGI_video_sync - present
+[ 11/16/2024 08:32:55.512 glxext_init INFO ] Extension GLX_SGI_swap_control - present
+[ 11/16/2024 08:32:55.512 glxext_init INFO ] Extension GLX_OML_sync_control - absent
+[ 11/16/2024 08:32:55.512 glxext_init INFO ] Extension GLX_MESA_swap_control - absent
+[ 11/16/2024 08:32:55.512 glxext_init INFO ] Extension GLX_EXT_swap_control - present
+[ 11/16/2024 08:32:55.512 glxext_init INFO ] Extension GLX_EXT_texture_from_pixmap - present
+[ 11/16/2024 08:32:55.512 glxext_init INFO ] Extension GLX_ARB_create_context - present
+[ 11/16/2024 08:32:55.512 glxext_init INFO ] Extension GLX_EXT_buffer_age - present
+[ 11/16/2024 08:32:55.512 glxext_init INFO ] Extension GLX_ARB_create_context_robustness - present
+[ 11/16/2024 08:32:55.512 glxext_init INFO ] Extension GLX_MESA_query_renderer - absent
+[ 11/16/2024 08:32:55.535 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/16/2024 08:32:55.536 redirect_start INFO ] Using vblank scheduler: sgi_video_sync.
+[ 11/16/2024 08:32:55.545 sgi_video_sync_scheduler_init INFO ] Started sgi_video_sync_thread
+[ 11/16/2024 08:32:55.548 sgi_video_sync_scheduler_callback WARN ] Duplicate vblank event found with msc 0. Possible NVIDIA bug? Number of duplicates so far: 0
+[ 11/16/2024 08:32:56.718 exit_enable INFO ] picom is quitting...
+[ 11/16/2024 08:32:58.150 glxext_init INFO ] Extension GLX_SGI_video_sync - present
+[ 11/16/2024 08:32:58.150 glxext_init INFO ] Extension GLX_SGI_swap_control - present
+[ 11/16/2024 08:32:58.150 glxext_init INFO ] Extension GLX_OML_sync_control - absent
+[ 11/16/2024 08:32:58.150 glxext_init INFO ] Extension GLX_MESA_swap_control - absent
+[ 11/16/2024 08:32:58.150 glxext_init INFO ] Extension GLX_EXT_swap_control - present
+[ 11/16/2024 08:32:58.150 glxext_init INFO ] Extension GLX_EXT_texture_from_pixmap - present
+[ 11/16/2024 08:32:58.150 glxext_init INFO ] Extension GLX_ARB_create_context - present
+[ 11/16/2024 08:32:58.150 glxext_init INFO ] Extension GLX_EXT_buffer_age - present
+[ 11/16/2024 08:32:58.150 glxext_init INFO ] Extension GLX_ARB_create_context_robustness - present
+[ 11/16/2024 08:32:58.150 glxext_init INFO ] Extension GLX_MESA_query_renderer - absent
+[ 11/16/2024 08:32:58.175 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/16/2024 08:32:58.207 redirect_start INFO ] Using vblank scheduler: sgi_video_sync.
+[ 11/16/2024 08:32:58.215 sgi_video_sync_scheduler_init INFO ] Started sgi_video_sync_thread
+[ 11/16/2024 08:32:58.218 sgi_video_sync_scheduler_callback WARN ] Duplicate vblank event found with msc 0. Possible NVIDIA bug? Number of duplicates so far: 0
+[ 11/16/2024 08:33:17.175 reset_enable INFO ] picom is resetting...
+[ 11/16/2024 08:33:17.196 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/16/2024 08:33:17.196 redirect_start INFO ] Using vblank scheduler: sgi_video_sync.
+[ 11/16/2024 08:33:17.251 sgi_video_sync_scheduler_init INFO ] Started sgi_video_sync_thread
+[ 11/16/2024 08:33:17.253 sgi_video_sync_scheduler_callback WARN ] Duplicate vblank event found with msc 0. Possible NVIDIA bug? Number of duplicates so far: 0
+[ 11/16/2024 08:33:28.497 reset_enable INFO ] picom is resetting...
+[ 11/16/2024 08:33:28.583 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/16/2024 08:33:28.584 redirect_start INFO ] Using vblank scheduler: sgi_video_sync.
+[ 11/16/2024 08:33:28.610 sgi_video_sync_scheduler_init INFO ] Started sgi_video_sync_thread
+[ 11/16/2024 08:33:28.612 sgi_video_sync_scheduler_callback WARN ] Duplicate vblank event found with msc 0. Possible NVIDIA bug? Number of duplicates so far: 0
+[ 11/16/2024 08:34:20.303 reset_enable INFO ] picom is resetting...
+[ 11/16/2024 08:34:20.322 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/16/2024 08:34:20.322 redirect_start INFO ] Using vblank scheduler: sgi_video_sync.
+[ 11/16/2024 08:34:20.352 sgi_video_sync_scheduler_init INFO ] Started sgi_video_sync_thread
+[ 11/16/2024 08:34:20.354 sgi_video_sync_scheduler_callback WARN ] Duplicate vblank event found with msc 0. Possible NVIDIA bug? Number of duplicates so far: 0
+[ 11/16/2024 08:34:42.452 reset_enable INFO ] picom is resetting...
+[ 11/16/2024 08:34:42.477 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/16/2024 08:34:42.477 redirect_start INFO ] Using vblank scheduler: sgi_video_sync.
+[ 11/16/2024 08:34:42.499 sgi_video_sync_scheduler_init INFO ] Started sgi_video_sync_thread
+[ 11/16/2024 08:34:42.502 sgi_video_sync_scheduler_callback WARN ] Duplicate vblank event found with msc 0. Possible NVIDIA bug? Number of duplicates so far: 0
+[ 11/16/2024 08:35:46.875 reset_enable INFO ] picom is resetting...
+[ 11/16/2024 08:35:46.924 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/16/2024 08:35:46.924 redirect_start INFO ] Using vblank scheduler: sgi_video_sync.
+[ 11/16/2024 08:35:46.945 sgi_video_sync_scheduler_init INFO ] Started sgi_video_sync_thread
+[ 11/16/2024 08:35:46.947 sgi_video_sync_scheduler_callback WARN ] Duplicate vblank event found with msc 0. Possible NVIDIA bug? Number of duplicates so far: 0
+[ 11/16/2024 08:36:42.386 reset_enable INFO ] picom is resetting...
+[ 11/16/2024 08:36:42.409 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/16/2024 08:36:42.410 redirect_start INFO ] Using vblank scheduler: sgi_video_sync.
+[ 11/16/2024 08:36:42.427 sgi_video_sync_scheduler_init INFO ] Started sgi_video_sync_thread
+[ 11/16/2024 08:36:42.430 sgi_video_sync_scheduler_callback WARN ] Duplicate vblank event found with msc 0. Possible NVIDIA bug? Number of duplicates so far: 0
+[ 11/16/2024 08:37:06.132 reset_enable INFO ] picom is resetting...
+[ 11/16/2024 08:37:06.226 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/16/2024 08:37:06.226 redirect_start INFO ] Using vblank scheduler: sgi_video_sync.
+[ 11/16/2024 08:37:06.259 sgi_video_sync_scheduler_init INFO ] Started sgi_video_sync_thread
+[ 11/16/2024 08:37:06.261 sgi_video_sync_scheduler_callback WARN ] Duplicate vblank event found with msc 0. Possible NVIDIA bug? Number of duplicates so far: 0
+[ 11/16/2024 08:37:09.337 exit_enable INFO ] picom is quitting...
+[ 11/16/2024 08:37:11.310 glxext_init INFO ] Extension GLX_SGI_video_sync - present
+[ 11/16/2024 08:37:11.310 glxext_init INFO ] Extension GLX_SGI_swap_control - present
+[ 11/16/2024 08:37:11.310 glxext_init INFO ] Extension GLX_OML_sync_control - absent
+[ 11/16/2024 08:37:11.310 glxext_init INFO ] Extension GLX_MESA_swap_control - absent
+[ 11/16/2024 08:37:11.310 glxext_init INFO ] Extension GLX_EXT_swap_control - present
+[ 11/16/2024 08:37:11.310 glxext_init INFO ] Extension GLX_EXT_texture_from_pixmap - present
+[ 11/16/2024 08:37:11.310 glxext_init INFO ] Extension GLX_ARB_create_context - present
+[ 11/16/2024 08:37:11.310 glxext_init INFO ] Extension GLX_EXT_buffer_age - present
+[ 11/16/2024 08:37:11.310 glxext_init INFO ] Extension GLX_ARB_create_context_robustness - present
+[ 11/16/2024 08:37:11.310 glxext_init INFO ] Extension GLX_MESA_query_renderer - absent
+[ 11/16/2024 08:37:11.343 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/16/2024 08:37:11.344 redirect_start INFO ] Using vblank scheduler: sgi_video_sync.
+[ 11/16/2024 08:37:11.354 sgi_video_sync_scheduler_init INFO ] Started sgi_video_sync_thread
+[ 11/16/2024 08:37:11.356 sgi_video_sync_scheduler_callback WARN ] Duplicate vblank event found with msc 0. Possible NVIDIA bug? Number of duplicates so far: 0
+[ 11/16/2024 08:37:21.888 exit_enable INFO ] picom is quitting...
+[ 11/16/2024 08:37:23.050 glxext_init INFO ] Extension GLX_SGI_video_sync - present
+[ 11/16/2024 08:37:23.050 glxext_init INFO ] Extension GLX_SGI_swap_control - present
+[ 11/16/2024 08:37:23.050 glxext_init INFO ] Extension GLX_OML_sync_control - absent
+[ 11/16/2024 08:37:23.050 glxext_init INFO ] Extension GLX_MESA_swap_control - absent
+[ 11/16/2024 08:37:23.050 glxext_init INFO ] Extension GLX_EXT_swap_control - present
+[ 11/16/2024 08:37:23.050 glxext_init INFO ] Extension GLX_EXT_texture_from_pixmap - present
+[ 11/16/2024 08:37:23.050 glxext_init INFO ] Extension GLX_ARB_create_context - present
+[ 11/16/2024 08:37:23.050 glxext_init INFO ] Extension GLX_EXT_buffer_age - present
+[ 11/16/2024 08:37:23.050 glxext_init INFO ] Extension GLX_ARB_create_context_robustness - present
+[ 11/16/2024 08:37:23.050 glxext_init INFO ] Extension GLX_MESA_query_renderer - absent
+[ 11/16/2024 08:37:23.083 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/16/2024 08:37:23.084 redirect_start INFO ] Using vblank scheduler: sgi_video_sync.
+[ 11/16/2024 08:37:23.092 sgi_video_sync_scheduler_init INFO ] Started sgi_video_sync_thread
+[ 11/16/2024 08:37:23.094 sgi_video_sync_scheduler_callback WARN ] Duplicate vblank event found with msc 0. Possible NVIDIA bug? Number of duplicates so far: 0
+[ 11/16/2024 08:37:54.548 reset_enable INFO ] picom is resetting...
+[ 11/16/2024 08:37:54.650 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/16/2024 08:37:54.651 redirect_start INFO ] Using vblank scheduler: sgi_video_sync.
+[ 11/16/2024 08:37:54.685 sgi_video_sync_scheduler_init INFO ] Started sgi_video_sync_thread
+[ 11/16/2024 08:37:54.688 sgi_video_sync_scheduler_callback WARN ] Duplicate vblank event found with msc 0. Possible NVIDIA bug? Number of duplicates so far: 0
+[ 11/16/2024 09:00:09.587 reset_enable INFO ] picom is resetting...
+[ 11/16/2024 09:00:09.688 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/16/2024 09:00:09.688 redirect_start INFO ] Using vblank scheduler: sgi_video_sync.
+[ 11/16/2024 09:00:09.729 sgi_video_sync_scheduler_init INFO ] Started sgi_video_sync_thread
+[ 11/16/2024 09:00:09.732 sgi_video_sync_scheduler_callback WARN ] Duplicate vblank event found with msc 0. Possible NVIDIA bug? Number of duplicates so far: 0
+[ 11/16/2024 09:00:57.318 reset_enable INFO ] picom is resetting...
+[ 11/16/2024 09:00:57.344 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/16/2024 09:00:57.345 redirect_start INFO ] Using vblank scheduler: sgi_video_sync.
+[ 11/16/2024 09:00:57.368 sgi_video_sync_scheduler_init INFO ] Started sgi_video_sync_thread
+[ 11/16/2024 09:00:57.370 sgi_video_sync_scheduler_callback WARN ] Duplicate vblank event found with msc 0. Possible NVIDIA bug? Number of duplicates so far: 0
+[ 11/16/2024 09:01:47.323 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/16/2024 09:01:47.323 main FATAL ERROR ] Failed to create new session.
+[ 11/16/2024 09:04:31.481 exit_enable INFO ] picom is quitting...
+[ 11/16/2024 09:05:16.924 glxext_init INFO ] Extension GLX_SGI_video_sync - present
+[ 11/16/2024 09:05:16.924 glxext_init INFO ] Extension GLX_SGI_swap_control - present
+[ 11/16/2024 09:05:16.924 glxext_init INFO ] Extension GLX_OML_sync_control - absent
+[ 11/16/2024 09:05:16.924 glxext_init INFO ] Extension GLX_MESA_swap_control - absent
+[ 11/16/2024 09:05:16.924 glxext_init INFO ] Extension GLX_EXT_swap_control - present
+[ 11/16/2024 09:05:16.924 glxext_init INFO ] Extension GLX_EXT_texture_from_pixmap - present
+[ 11/16/2024 09:05:16.924 glxext_init INFO ] Extension GLX_ARB_create_context - present
+[ 11/16/2024 09:05:16.924 glxext_init INFO ] Extension GLX_EXT_buffer_age - present
+[ 11/16/2024 09:05:16.924 glxext_init INFO ] Extension GLX_ARB_create_context_robustness - present
+[ 11/16/2024 09:05:16.924 glxext_init INFO ] Extension GLX_MESA_query_renderer - absent
+[ 11/16/2024 09:05:16.968 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/16/2024 09:05:16.969 redirect_start INFO ] Using vblank scheduler: sgi_video_sync.
+[ 11/16/2024 09:05:16.977 sgi_video_sync_scheduler_init INFO ] Started sgi_video_sync_thread
+[ 11/16/2024 09:05:16.980 sgi_video_sync_scheduler_callback WARN ] Duplicate vblank event found with msc 0. Possible NVIDIA bug? Number of duplicates so far: 0
+[ 11/16/2024 09:05:18.587 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/16/2024 09:05:18.587 main FATAL ERROR ] Failed to create new session.
+[ 11/16/2024 13:02:07.203 glxext_init INFO ] Extension GLX_SGI_video_sync - present
+[ 11/16/2024 13:02:07.203 glxext_init INFO ] Extension GLX_SGI_swap_control - present
+[ 11/16/2024 13:02:07.203 glxext_init INFO ] Extension GLX_OML_sync_control - absent
+[ 11/16/2024 13:02:07.203 glxext_init INFO ] Extension GLX_MESA_swap_control - absent
+[ 11/16/2024 13:02:07.203 glxext_init INFO ] Extension GLX_EXT_swap_control - present
+[ 11/16/2024 13:02:07.203 glxext_init INFO ] Extension GLX_EXT_texture_from_pixmap - present
+[ 11/16/2024 13:02:07.203 glxext_init INFO ] Extension GLX_ARB_create_context - present
+[ 11/16/2024 13:02:07.203 glxext_init INFO ] Extension GLX_EXT_buffer_age - present
+[ 11/16/2024 13:02:07.203 glxext_init INFO ] Extension GLX_ARB_create_context_robustness - present
+[ 11/16/2024 13:02:07.203 glxext_init INFO ] Extension GLX_MESA_query_renderer - absent
+[ 11/16/2024 13:02:07.244 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/16/2024 13:02:07.245 redirect_start INFO ] Using vblank scheduler: sgi_video_sync.
+[ 11/16/2024 13:02:07.257 sgi_video_sync_scheduler_init INFO ] Started sgi_video_sync_thread
+[ 11/16/2024 13:02:07.258 sgi_video_sync_scheduler_callback WARN ] Duplicate vblank event found with msc 0. Possible NVIDIA bug? Number of duplicates so far: 0
+[ 11/16/2024 13:05:04.168 configure_root INFO ] Root configuration changed, new geometry: 2560x1600
+[ 11/16/2024 13:07:35.409 configure_root INFO ] Root configuration changed, new geometry: 6000x1600
+[ 11/16/2024 13:07:35.409 configure_root INFO ] Root configuration changed, new geometry: 6000x1600
+[ 11/16/2024 13:08:06.576 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/16/2024 13:08:06.576 main FATAL ERROR ] Failed to create new session.
+[ 11/16/2024 14:10:52.581 configure_root INFO ] Root configuration changed, new geometry: 6000x1600
+[ 11/16/2024 14:11:34.468 configure_root INFO ] Root configuration changed, new geometry: 6000x1600
+[ 11/16/2024 15:44:36.916 configure_root INFO ] Root configuration changed, new geometry: 6000x1600
+[ 11/16/2024 15:44:55.799 configure_root INFO ] Root configuration changed, new geometry: 6000x1600
+[ 11/16/2024 18:22:11.853 configure_root INFO ] Root configuration changed, new geometry: 6000x1600
+[ 11/16/2024 18:22:23.960 configure_root INFO ] Root configuration changed, new geometry: 2560x1600
+[ 11/16/2024 18:22:26.568 configure_root INFO ] Root configuration changed, new geometry: 6000x1600
+[ 11/16/2024 18:22:26.568 configure_root INFO ] Root configuration changed, new geometry: 6000x1600
+[ 11/16/2024 20:07:45.390 configure_root INFO ] Root configuration changed, new geometry: 6000x1600
+[ 11/16/2024 21:19:32.650 x_fetch_region ERROR ] Failed to fetch rectangles (No error)
+[ 11/17/2024 08:21:16.653 glxext_init INFO ] Extension GLX_SGI_video_sync - present
+[ 11/17/2024 08:21:16.654 glxext_init INFO ] Extension GLX_SGI_swap_control - present
+[ 11/17/2024 08:21:16.654 glxext_init INFO ] Extension GLX_OML_sync_control - absent
+[ 11/17/2024 08:21:16.654 glxext_init INFO ] Extension GLX_MESA_swap_control - absent
+[ 11/17/2024 08:21:16.654 glxext_init INFO ] Extension GLX_EXT_swap_control - present
+[ 11/17/2024 08:21:16.654 glxext_init INFO ] Extension GLX_EXT_texture_from_pixmap - present
+[ 11/17/2024 08:21:16.654 glxext_init INFO ] Extension GLX_ARB_create_context - present
+[ 11/17/2024 08:21:16.654 glxext_init INFO ] Extension GLX_EXT_buffer_age - present
+[ 11/17/2024 08:21:16.654 glxext_init INFO ] Extension GLX_ARB_create_context_robustness - present
+[ 11/17/2024 08:21:16.654 glxext_init INFO ] Extension GLX_MESA_query_renderer - absent
+[ 11/17/2024 08:21:16.740 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/17/2024 08:21:16.742 redirect_start INFO ] Using vblank scheduler: sgi_video_sync.
+[ 11/17/2024 08:21:16.773 sgi_video_sync_scheduler_init INFO ] Started sgi_video_sync_thread
+[ 11/17/2024 08:21:54.214 configure_root INFO ] Root configuration changed, new geometry: 6000x1600
+[ 11/17/2024 08:21:54.214 configure_root INFO ] Root configuration changed, new geometry: 6000x1600
+[ 11/17/2024 08:21:54.215 configure_root INFO ] Root configuration changed, new geometry: 6000x1600
+[ 11/17/2024 08:22:01.336 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/17/2024 08:22:01.336 main FATAL ERROR ] Failed to create new session.
+[ 11/17/2024 08:32:19.513 sgi_video_sync_scheduler_callback WARN ] Duplicate vblank event found with msc 3099. Possible NVIDIA bug? Number of duplicates so far: 0
+[ 11/17/2024 09:03:30.793 configure_root INFO ] Root configuration changed, new geometry: 6000x1600
+[ 11/17/2024 11:18:29.723 configure_root INFO ] Root configuration changed, new geometry: 2560x1600
+[ 11/17/2024 11:18:43.647 configure_root INFO ] Root configuration changed, new geometry: 6000x1600
+[ 11/17/2024 11:18:43.647 configure_root INFO ] Root configuration changed, new geometry: 6000x1600
+[ 11/17/2024 11:18:55.152 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/17/2024 11:18:55.152 main FATAL ERROR ] Failed to create new session.
+[ 11/17/2024 11:21:34.192 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/17/2024 11:21:34.192 main FATAL ERROR ] Failed to create new session.
+[ 11/17/2024 11:21:58.248 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/17/2024 11:21:58.248 main FATAL ERROR ] Failed to create new session.
+[ 11/17/2024 11:22:01.737 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/17/2024 11:22:01.737 main FATAL ERROR ] Failed to create new session.
+[ 11/17/2024 11:22:02.761 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/17/2024 11:22:02.761 main FATAL ERROR ] Failed to create new session.
+[ 11/17/2024 11:22:03.825 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/17/2024 11:22:03.825 main FATAL ERROR ] Failed to create new session.
+[ 11/17/2024 11:22:42.067 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/17/2024 11:22:42.067 main FATAL ERROR ] Failed to create new session.
+[ 11/17/2024 11:22:43.696 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/17/2024 11:22:43.696 main FATAL ERROR ] Failed to create new session.
+[ 11/17/2024 11:22:44.562 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/17/2024 11:22:44.562 main FATAL ERROR ] Failed to create new session.
+[ 11/17/2024 11:23:10.696 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/17/2024 11:23:10.696 main FATAL ERROR ] Failed to create new session.
+[ 11/17/2024 11:23:12.003 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/17/2024 11:23:12.003 main FATAL ERROR ] Failed to create new session.
+[ 11/17/2024 11:23:12.575 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/17/2024 11:23:12.575 main FATAL ERROR ] Failed to create new session.
+[ 11/17/2024 11:23:13.125 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/17/2024 11:23:13.125 main FATAL ERROR ] Failed to create new session.
+[ 11/17/2024 11:23:14.192 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/17/2024 11:23:14.192 main FATAL ERROR ] Failed to create new session.
+[ 11/17/2024 11:39:42.881 glxext_init INFO ] Extension GLX_SGI_video_sync - present
+[ 11/17/2024 11:39:42.881 glxext_init INFO ] Extension GLX_SGI_swap_control - present
+[ 11/17/2024 11:39:42.881 glxext_init INFO ] Extension GLX_OML_sync_control - absent
+[ 11/17/2024 11:39:42.881 glxext_init INFO ] Extension GLX_MESA_swap_control - absent
+[ 11/17/2024 11:39:42.881 glxext_init INFO ] Extension GLX_EXT_swap_control - present
+[ 11/17/2024 11:39:42.881 glxext_init INFO ] Extension GLX_EXT_texture_from_pixmap - present
+[ 11/17/2024 11:39:42.881 glxext_init INFO ] Extension GLX_ARB_create_context - present
+[ 11/17/2024 11:39:42.881 glxext_init INFO ] Extension GLX_EXT_buffer_age - present
+[ 11/17/2024 11:39:42.881 glxext_init INFO ] Extension GLX_ARB_create_context_robustness - present
+[ 11/17/2024 11:39:42.881 glxext_init INFO ] Extension GLX_MESA_query_renderer - absent
+[ 11/17/2024 11:39:42.932 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/17/2024 11:39:42.932 redirect_start INFO ] Using vblank scheduler: sgi_video_sync.
+[ 11/17/2024 11:39:42.942 sgi_video_sync_scheduler_init INFO ] Started sgi_video_sync_thread
+[ 11/17/2024 11:54:20.844 sgi_video_sync_scheduler_callback WARN ] Duplicate vblank event found with msc 48324. Possible NVIDIA bug? Number of duplicates so far: 0
+[ 11/17/2024 11:54:46.736 configure_root INFO ] Root configuration changed, new geometry: 6000x1600
+[ 11/17/2024 13:25:24.019 configure_root INFO ] Root configuration changed, new geometry: 6000x1600
+[ 11/17/2024 13:26:57.652 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/17/2024 13:26:57.652 main FATAL ERROR ] Failed to create new session.
+[ 11/17/2024 13:28:08.667 glxext_init INFO ] Extension GLX_SGI_video_sync - present
+[ 11/17/2024 13:28:08.667 glxext_init INFO ] Extension GLX_SGI_swap_control - present
+[ 11/17/2024 13:28:08.667 glxext_init INFO ] Extension GLX_OML_sync_control - absent
+[ 11/17/2024 13:28:08.667 glxext_init INFO ] Extension GLX_MESA_swap_control - absent
+[ 11/17/2024 13:28:08.667 glxext_init INFO ] Extension GLX_EXT_swap_control - present
+[ 11/17/2024 13:28:08.667 glxext_init INFO ] Extension GLX_EXT_texture_from_pixmap - present
+[ 11/17/2024 13:28:08.667 glxext_init INFO ] Extension GLX_ARB_create_context - present
+[ 11/17/2024 13:28:08.667 glxext_init INFO ] Extension GLX_EXT_buffer_age - present
+[ 11/17/2024 13:28:08.667 glxext_init INFO ] Extension GLX_ARB_create_context_robustness - present
+[ 11/17/2024 13:28:08.667 glxext_init INFO ] Extension GLX_MESA_query_renderer - absent
+[ 11/17/2024 13:28:08.715 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/17/2024 13:28:08.716 redirect_start INFO ] Using vblank scheduler: sgi_video_sync.
+[ 11/17/2024 13:28:08.730 sgi_video_sync_scheduler_init INFO ] Started sgi_video_sync_thread
+[ 11/17/2024 13:29:15.253 configure_root INFO ] Root configuration changed, new geometry: 6000x1600
+[ 11/17/2024 13:29:15.253 configure_root INFO ] Root configuration changed, new geometry: 6000x1600
+[ 11/17/2024 13:29:15.253 configure_root INFO ] Root configuration changed, new geometry: 6000x1600
+[ 11/17/2024 13:29:22.259 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/17/2024 13:29:22.259 main FATAL ERROR ] Failed to create new session.
+[ 11/17/2024 13:33:12.229 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/17/2024 13:33:12.229 main FATAL ERROR ] Failed to create new session.
+[ 11/17/2024 14:15:00.029 sgi_video_sync_scheduler_callback WARN ] Duplicate vblank event found with msc 139866. Possible NVIDIA bug? Number of duplicates so far: 0
+[ 11/17/2024 14:15:25.453 configure_root INFO ] Root configuration changed, new geometry: 6000x1600
+[ 11/17/2024 14:40:37.535 configure_root INFO ] Root configuration changed, new geometry: 6000x1600
+[ 11/17/2024 14:40:46.790 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/17/2024 14:40:46.790 main FATAL ERROR ] Failed to create new session.
+[ 11/17/2024 15:04:12.681 configure_root INFO ] Root configuration changed, new geometry: 6000x1600
+[ 11/17/2024 15:17:35.345 configure_root INFO ] Root configuration changed, new geometry: 2560x1600
+[ 11/17/2024 15:17:38.202 configure_root INFO ] Root configuration changed, new geometry: 6000x1600
+[ 11/17/2024 15:17:38.202 configure_root INFO ] Root configuration changed, new geometry: 6000x1600
+[ 11/17/2024 15:17:45.625 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/17/2024 15:17:45.625 main FATAL ERROR ] Failed to create new session.
+[ 11/17/2024 16:21:43.265 configure_root INFO ] Root configuration changed, new geometry: 6000x1600
+[ 11/17/2024 16:24:25.766 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/17/2024 16:24:25.766 main FATAL ERROR ] Failed to create new session.
+[ 11/17/2024 16:40:26.865 reset_enable INFO ] picom is resetting...
+[ 11/17/2024 16:40:26.937 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/17/2024 18:38:54.115 configure_root INFO ] Root configuration changed, new geometry: 2560x1600
+[ 11/17/2024 21:04:51.182 x_fetch_region ERROR ] Failed to fetch rectangles (No error)
+[ 11/18/2024 06:12:25.509 glxext_init INFO ] Extension GLX_SGI_video_sync - present
+[ 11/18/2024 06:12:25.509 glxext_init INFO ] Extension GLX_SGI_swap_control - present
+[ 11/18/2024 06:12:25.509 glxext_init INFO ] Extension GLX_OML_sync_control - absent
+[ 11/18/2024 06:12:25.509 glxext_init INFO ] Extension GLX_MESA_swap_control - absent
+[ 11/18/2024 06:12:25.509 glxext_init INFO ] Extension GLX_EXT_swap_control - present
+[ 11/18/2024 06:12:25.509 glxext_init INFO ] Extension GLX_EXT_texture_from_pixmap - present
+[ 11/18/2024 06:12:25.509 glxext_init INFO ] Extension GLX_ARB_create_context - present
+[ 11/18/2024 06:12:25.509 glxext_init INFO ] Extension GLX_EXT_buffer_age - present
+[ 11/18/2024 06:12:25.509 glxext_init INFO ] Extension GLX_ARB_create_context_robustness - present
+[ 11/18/2024 06:12:25.509 glxext_init INFO ] Extension GLX_MESA_query_renderer - absent
+[ 11/18/2024 06:12:25.556 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/18/2024 06:13:31.480 configure_root INFO ] Root configuration changed, new geometry: 2560x1600
+[ 11/18/2024 06:13:43.636 configure_root INFO ] Root configuration changed, new geometry: 6000x1600
+[ 11/18/2024 06:13:43.636 configure_root INFO ] Root configuration changed, new geometry: 6000x1600
+[ 11/18/2024 06:13:50.575 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/18/2024 06:13:50.575 main FATAL ERROR ] Failed to create new session.
+[ 11/18/2024 19:44:38.409 configure_root INFO ] Root configuration changed, new geometry: 6000x1600
+[ 11/18/2024 20:58:45.916 x_fetch_region ERROR ] Failed to fetch rectangles (No error)
+[ 11/19/2024 06:22:51.158 glxext_init INFO ] Extension GLX_SGI_video_sync - present
+[ 11/19/2024 06:22:51.158 glxext_init INFO ] Extension GLX_SGI_swap_control - present
+[ 11/19/2024 06:22:51.158 glxext_init INFO ] Extension GLX_OML_sync_control - absent
+[ 11/19/2024 06:22:51.158 glxext_init INFO ] Extension GLX_MESA_swap_control - absent
+[ 11/19/2024 06:22:51.158 glxext_init INFO ] Extension GLX_EXT_swap_control - present
+[ 11/19/2024 06:22:51.158 glxext_init INFO ] Extension GLX_EXT_texture_from_pixmap - present
+[ 11/19/2024 06:22:51.158 glxext_init INFO ] Extension GLX_ARB_create_context - present
+[ 11/19/2024 06:22:51.158 glxext_init INFO ] Extension GLX_EXT_buffer_age - present
+[ 11/19/2024 06:22:51.158 glxext_init INFO ] Extension GLX_ARB_create_context_robustness - present
+[ 11/19/2024 06:22:51.158 glxext_init INFO ] Extension GLX_MESA_query_renderer - absent
+[ 11/19/2024 06:22:51.229 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/19/2024 06:50:00.083 x_fetch_region ERROR ] Failed to fetch rectangles (No error)
+[ 11/19/2024 07:26:51.160 glxext_init INFO ] Extension GLX_SGI_video_sync - present
+[ 11/19/2024 07:26:51.160 glxext_init INFO ] Extension GLX_SGI_swap_control - present
+[ 11/19/2024 07:26:51.160 glxext_init INFO ] Extension GLX_OML_sync_control - absent
+[ 11/19/2024 07:26:51.160 glxext_init INFO ] Extension GLX_MESA_swap_control - absent
+[ 11/19/2024 07:26:51.160 glxext_init INFO ] Extension GLX_EXT_swap_control - present
+[ 11/19/2024 07:26:51.160 glxext_init INFO ] Extension GLX_EXT_texture_from_pixmap - present
+[ 11/19/2024 07:26:51.160 glxext_init INFO ] Extension GLX_ARB_create_context - present
+[ 11/19/2024 07:26:51.160 glxext_init INFO ] Extension GLX_EXT_buffer_age - present
+[ 11/19/2024 07:26:51.160 glxext_init INFO ] Extension GLX_ARB_create_context_robustness - present
+[ 11/19/2024 07:26:51.160 glxext_init INFO ] Extension GLX_MESA_query_renderer - absent
+[ 11/19/2024 07:26:51.217 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/19/2024 07:31:17.929 configure_root INFO ] Root configuration changed, new geometry: 4480x1600
+[ 11/19/2024 07:31:17.929 configure_root INFO ] Root configuration changed, new geometry: 4480x1600
+[ 11/19/2024 07:31:23.396 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/19/2024 07:31:23.396 main FATAL ERROR ] Failed to create new session.
+[ 11/19/2024 12:51:04.651 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/19/2024 12:51:04.651 main FATAL ERROR ] Failed to create new session.
+[ 11/19/2024 12:51:08.317 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/19/2024 12:51:08.317 main FATAL ERROR ] Failed to create new session.
+[ 11/19/2024 12:53:32.063 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/19/2024 12:53:32.063 main FATAL ERROR ] Failed to create new session.
+[ 11/19/2024 12:53:33.302 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/19/2024 12:53:33.302 main FATAL ERROR ] Failed to create new session.
+[ 11/19/2024 12:54:09.218 configure_root INFO ] Root configuration changed, new geometry: 4480x1600
+[ 11/19/2024 12:54:11.288 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/19/2024 12:54:11.288 main FATAL ERROR ] Failed to create new session.
+[ 11/19/2024 12:56:08.493 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/19/2024 12:56:08.493 main FATAL ERROR ] Failed to create new session.
+[ 11/19/2024 12:56:16.835 configure_root INFO ] Root configuration changed, new geometry: 2560x1600
+[ 11/19/2024 12:56:16.835 configure_root INFO ] Root configuration changed, new geometry: 2560x1600
+[ 11/19/2024 13:37:23.613 configure_root INFO ] Root configuration changed, new geometry: 4480x1600
+[ 11/19/2024 13:37:23.613 configure_root INFO ] Root configuration changed, new geometry: 4480x1600
+[ 11/19/2024 13:37:23.613 configure_root INFO ] Root configuration changed, new geometry: 4480x1600
+[ 11/19/2024 14:03:42.026 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/19/2024 14:03:42.026 main FATAL ERROR ] Failed to create new session.
+[ 11/19/2024 16:42:22.452 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/19/2024 16:42:22.452 main FATAL ERROR ] Failed to create new session.
+[ 11/19/2024 17:01:14.978 glxext_init INFO ] Extension GLX_SGI_video_sync - present
+[ 11/19/2024 17:01:14.978 glxext_init INFO ] Extension GLX_SGI_swap_control - present
+[ 11/19/2024 17:01:14.978 glxext_init INFO ] Extension GLX_OML_sync_control - absent
+[ 11/19/2024 17:01:14.978 glxext_init INFO ] Extension GLX_MESA_swap_control - absent
+[ 11/19/2024 17:01:14.978 glxext_init INFO ] Extension GLX_EXT_swap_control - present
+[ 11/19/2024 17:01:14.978 glxext_init INFO ] Extension GLX_EXT_texture_from_pixmap - present
+[ 11/19/2024 17:01:14.978 glxext_init INFO ] Extension GLX_ARB_create_context - present
+[ 11/19/2024 17:01:14.978 glxext_init INFO ] Extension GLX_EXT_buffer_age - present
+[ 11/19/2024 17:01:14.978 glxext_init INFO ] Extension GLX_ARB_create_context_robustness - present
+[ 11/19/2024 17:01:14.978 glxext_init INFO ] Extension GLX_MESA_query_renderer - absent
+[ 11/19/2024 17:01:16.710 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/19/2024 17:01:18.399 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/19/2024 17:01:18.399 main FATAL ERROR ] Failed to create new session.
+[ 11/19/2024 17:03:42.882 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/19/2024 17:03:42.882 main FATAL ERROR ] Failed to create new session.
+[ 11/19/2024 17:05:13.846 configure_root INFO ] Root configuration changed, new geometry: 2560x1600
+[ 11/19/2024 17:05:13.846 configure_root INFO ] Root configuration changed, new geometry: 2560x1600
+[ 11/19/2024 17:05:19.918 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/19/2024 17:05:19.918 main FATAL ERROR ] Failed to create new session.
+[ 11/19/2024 19:39:15.479 glxext_init INFO ] Extension GLX_SGI_video_sync - present
+[ 11/19/2024 19:39:15.479 glxext_init INFO ] Extension GLX_SGI_swap_control - present
+[ 11/19/2024 19:39:15.479 glxext_init INFO ] Extension GLX_OML_sync_control - absent
+[ 11/19/2024 19:39:15.479 glxext_init INFO ] Extension GLX_MESA_swap_control - absent
+[ 11/19/2024 19:39:15.479 glxext_init INFO ] Extension GLX_EXT_swap_control - present
+[ 11/19/2024 19:39:15.479 glxext_init INFO ] Extension GLX_EXT_texture_from_pixmap - present
+[ 11/19/2024 19:39:15.479 glxext_init INFO ] Extension GLX_ARB_create_context - present
+[ 11/19/2024 19:39:15.479 glxext_init INFO ] Extension GLX_EXT_buffer_age - present
+[ 11/19/2024 19:39:15.479 glxext_init INFO ] Extension GLX_ARB_create_context_robustness - present
+[ 11/19/2024 19:39:15.479 glxext_init INFO ] Extension GLX_MESA_query_renderer - absent
+[ 11/19/2024 19:39:15.529 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/19/2024 19:47:54.049 glxext_init INFO ] Extension GLX_SGI_video_sync - present
+[ 11/19/2024 19:47:54.049 glxext_init INFO ] Extension GLX_SGI_swap_control - present
+[ 11/19/2024 19:47:54.049 glxext_init INFO ] Extension GLX_OML_sync_control - absent
+[ 11/19/2024 19:47:54.049 glxext_init INFO ] Extension GLX_MESA_swap_control - absent
+[ 11/19/2024 19:47:54.049 glxext_init INFO ] Extension GLX_EXT_swap_control - present
+[ 11/19/2024 19:47:54.049 glxext_init INFO ] Extension GLX_EXT_texture_from_pixmap - present
+[ 11/19/2024 19:47:54.049 glxext_init INFO ] Extension GLX_ARB_create_context - present
+[ 11/19/2024 19:47:54.049 glxext_init INFO ] Extension GLX_EXT_buffer_age - present
+[ 11/19/2024 19:47:54.049 glxext_init INFO ] Extension GLX_ARB_create_context_robustness - present
+[ 11/19/2024 19:47:54.049 glxext_init INFO ] Extension GLX_MESA_query_renderer - absent
+[ 11/19/2024 19:47:54.092 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/19/2024 20:00:28.119 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/19/2024 20:00:28.119 main FATAL ERROR ] Failed to create new session.
+[ 11/19/2024 20:00:39.867 x_fetch_region ERROR ] Failed to fetch rectangles (No error)
+[ 11/19/2024 20:01:27.614 glxext_init INFO ] Extension GLX_SGI_video_sync - present
+[ 11/19/2024 20:01:27.614 glxext_init INFO ] Extension GLX_SGI_swap_control - present
+[ 11/19/2024 20:01:27.614 glxext_init INFO ] Extension GLX_OML_sync_control - absent
+[ 11/19/2024 20:01:27.614 glxext_init INFO ] Extension GLX_MESA_swap_control - absent
+[ 11/19/2024 20:01:27.614 glxext_init INFO ] Extension GLX_EXT_swap_control - present
+[ 11/19/2024 20:01:27.614 glxext_init INFO ] Extension GLX_EXT_texture_from_pixmap - present
+[ 11/19/2024 20:01:27.614 glxext_init INFO ] Extension GLX_ARB_create_context - present
+[ 11/19/2024 20:01:27.614 glxext_init INFO ] Extension GLX_EXT_buffer_age - present
+[ 11/19/2024 20:01:27.614 glxext_init INFO ] Extension GLX_ARB_create_context_robustness - present
+[ 11/19/2024 20:01:27.614 glxext_init INFO ] Extension GLX_MESA_query_renderer - absent
+[ 11/19/2024 20:01:27.665 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/20/2024 07:38:53.242 glxext_init INFO ] Extension GLX_SGI_video_sync - present
+[ 11/20/2024 07:38:53.243 glxext_init INFO ] Extension GLX_SGI_swap_control - present
+[ 11/20/2024 07:38:53.243 glxext_init INFO ] Extension GLX_OML_sync_control - absent
+[ 11/20/2024 07:38:53.243 glxext_init INFO ] Extension GLX_MESA_swap_control - absent
+[ 11/20/2024 07:38:53.243 glxext_init INFO ] Extension GLX_EXT_swap_control - present
+[ 11/20/2024 07:38:53.243 glxext_init INFO ] Extension GLX_EXT_texture_from_pixmap - present
+[ 11/20/2024 07:38:53.243 glxext_init INFO ] Extension GLX_ARB_create_context - present
+[ 11/20/2024 07:38:53.243 glxext_init INFO ] Extension GLX_EXT_buffer_age - present
+[ 11/20/2024 07:38:53.243 glxext_init INFO ] Extension GLX_ARB_create_context_robustness - present
+[ 11/20/2024 07:38:53.243 glxext_init INFO ] Extension GLX_MESA_query_renderer - absent
+[ 11/20/2024 07:38:53.300 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/20/2024 07:39:40.557 configure_root INFO ] Root configuration changed, new geometry: 4480x1600
+[ 11/20/2024 07:39:40.557 configure_root INFO ] Root configuration changed, new geometry: 4480x1600
+[ 11/20/2024 07:39:45.191 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/20/2024 07:39:45.191 main FATAL ERROR ] Failed to create new session.
+[ 11/20/2024 17:13:54.047 x_fetch_region ERROR ] Failed to fetch rectangles (No error)
+[ 11/20/2024 20:58:18.883 glxext_init INFO ] Extension GLX_SGI_video_sync - present
+[ 11/20/2024 20:58:18.883 glxext_init INFO ] Extension GLX_SGI_swap_control - present
+[ 11/20/2024 20:58:18.883 glxext_init INFO ] Extension GLX_OML_sync_control - absent
+[ 11/20/2024 20:58:18.883 glxext_init INFO ] Extension GLX_MESA_swap_control - absent
+[ 11/20/2024 20:58:18.883 glxext_init INFO ] Extension GLX_EXT_swap_control - present
+[ 11/20/2024 20:58:18.883 glxext_init INFO ] Extension GLX_EXT_texture_from_pixmap - present
+[ 11/20/2024 20:58:18.883 glxext_init INFO ] Extension GLX_ARB_create_context - present
+[ 11/20/2024 20:58:18.883 glxext_init INFO ] Extension GLX_EXT_buffer_age - present
+[ 11/20/2024 20:58:18.883 glxext_init INFO ] Extension GLX_ARB_create_context_robustness - present
+[ 11/20/2024 20:58:18.883 glxext_init INFO ] Extension GLX_MESA_query_renderer - absent
+[ 11/20/2024 20:58:18.931 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/20/2024 21:00:23.986 glxext_init INFO ] Extension GLX_SGI_video_sync - present
+[ 11/20/2024 21:00:23.987 glxext_init INFO ] Extension GLX_SGI_swap_control - present
+[ 11/20/2024 21:00:23.987 glxext_init INFO ] Extension GLX_OML_sync_control - absent
+[ 11/20/2024 21:00:23.987 glxext_init INFO ] Extension GLX_MESA_swap_control - absent
+[ 11/20/2024 21:00:23.987 glxext_init INFO ] Extension GLX_EXT_swap_control - present
+[ 11/20/2024 21:00:23.987 glxext_init INFO ] Extension GLX_EXT_texture_from_pixmap - present
+[ 11/20/2024 21:00:23.987 glxext_init INFO ] Extension GLX_ARB_create_context - present
+[ 11/20/2024 21:00:23.987 glxext_init INFO ] Extension GLX_EXT_buffer_age - present
+[ 11/20/2024 21:00:23.987 glxext_init INFO ] Extension GLX_ARB_create_context_robustness - present
+[ 11/20/2024 21:00:23.987 glxext_init INFO ] Extension GLX_MESA_query_renderer - absent
+[ 11/20/2024 21:00:24.034 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/20/2024 21:42:32.163 x_fetch_region ERROR ] Failed to fetch rectangles (No error)
+[ 11/21/2024 05:57:35.592 glxext_init INFO ] Extension GLX_SGI_video_sync - present
+[ 11/21/2024 05:57:35.593 glxext_init INFO ] Extension GLX_SGI_swap_control - present
+[ 11/21/2024 05:57:35.593 glxext_init INFO ] Extension GLX_OML_sync_control - absent
+[ 11/21/2024 05:57:35.593 glxext_init INFO ] Extension GLX_MESA_swap_control - absent
+[ 11/21/2024 05:57:35.593 glxext_init INFO ] Extension GLX_EXT_swap_control - present
+[ 11/21/2024 05:57:35.593 glxext_init INFO ] Extension GLX_EXT_texture_from_pixmap - present
+[ 11/21/2024 05:57:35.593 glxext_init INFO ] Extension GLX_ARB_create_context - present
+[ 11/21/2024 05:57:35.593 glxext_init INFO ] Extension GLX_EXT_buffer_age - present
+[ 11/21/2024 05:57:35.593 glxext_init INFO ] Extension GLX_ARB_create_context_robustness - present
+[ 11/21/2024 05:57:35.593 glxext_init INFO ] Extension GLX_MESA_query_renderer - absent
+[ 11/21/2024 05:57:35.669 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/21/2024 06:10:28.896 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/21/2024 06:10:28.896 main FATAL ERROR ] Failed to create new session.
+[ 11/21/2024 06:13:01.203 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/21/2024 06:13:01.203 main FATAL ERROR ] Failed to create new session.
+[ 11/21/2024 06:13:23.326 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/21/2024 06:13:23.326 main FATAL ERROR ] Failed to create new session.
+[ 11/21/2024 06:13:27.972 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/21/2024 06:13:27.972 main FATAL ERROR ] Failed to create new session.
+[ 11/21/2024 06:14:44.408 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/21/2024 06:14:44.408 main FATAL ERROR ] Failed to create new session.
+[ 11/21/2024 06:17:00.003 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/21/2024 06:17:00.003 main FATAL ERROR ] Failed to create new session.
+[ 11/21/2024 06:17:26.604 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/21/2024 06:17:26.604 main FATAL ERROR ] Failed to create new session.
+[ 11/21/2024 06:18:11.288 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/21/2024 06:18:11.288 main FATAL ERROR ] Failed to create new session.
+[ 11/21/2024 06:27:12.708 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/21/2024 06:27:12.708 main FATAL ERROR ] Failed to create new session.
+[ 11/21/2024 07:01:40.840 glxext_init INFO ] Extension GLX_SGI_video_sync - present
+[ 11/21/2024 07:01:40.840 glxext_init INFO ] Extension GLX_SGI_swap_control - present
+[ 11/21/2024 07:01:40.840 glxext_init INFO ] Extension GLX_OML_sync_control - absent
+[ 11/21/2024 07:01:40.840 glxext_init INFO ] Extension GLX_MESA_swap_control - absent
+[ 11/21/2024 07:01:40.840 glxext_init INFO ] Extension GLX_EXT_swap_control - present
+[ 11/21/2024 07:01:40.840 glxext_init INFO ] Extension GLX_EXT_texture_from_pixmap - present
+[ 11/21/2024 07:01:40.840 glxext_init INFO ] Extension GLX_ARB_create_context - present
+[ 11/21/2024 07:01:40.840 glxext_init INFO ] Extension GLX_EXT_buffer_age - present
+[ 11/21/2024 07:01:40.840 glxext_init INFO ] Extension GLX_ARB_create_context_robustness - present
+[ 11/21/2024 07:01:40.840 glxext_init INFO ] Extension GLX_MESA_query_renderer - absent
+[ 11/21/2024 07:01:40.909 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/21/2024 07:01:51.057 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/21/2024 07:01:51.057 main FATAL ERROR ] Failed to create new session.
+[ 11/21/2024 07:02:31.306 configure_root INFO ] Root configuration changed, new geometry: 4480x1600
+[ 11/21/2024 07:02:31.306 configure_root INFO ] Root configuration changed, new geometry: 4480x1600
+[ 11/21/2024 07:02:36.171 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/21/2024 07:02:36.172 main FATAL ERROR ] Failed to create new session.
+[ 11/21/2024 07:10:28.595 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/21/2024 07:10:28.595 main FATAL ERROR ] Failed to create new session.
+[ 11/21/2024 07:15:35.546 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/21/2024 07:15:35.546 main FATAL ERROR ] Failed to create new session.
+[ 11/21/2024 17:14:40.072 x_fetch_region ERROR ] Failed to fetch rectangles (No error)
+[ 11/21/2024 18:15:36.245 glxext_init INFO ] Extension GLX_SGI_video_sync - present
+[ 11/21/2024 18:15:36.245 glxext_init INFO ] Extension GLX_SGI_swap_control - present
+[ 11/21/2024 18:15:36.245 glxext_init INFO ] Extension GLX_OML_sync_control - absent
+[ 11/21/2024 18:15:36.245 glxext_init INFO ] Extension GLX_MESA_swap_control - absent
+[ 11/21/2024 18:15:36.245 glxext_init INFO ] Extension GLX_EXT_swap_control - present
+[ 11/21/2024 18:15:36.245 glxext_init INFO ] Extension GLX_EXT_texture_from_pixmap - present
+[ 11/21/2024 18:15:36.245 glxext_init INFO ] Extension GLX_ARB_create_context - present
+[ 11/21/2024 18:15:36.245 glxext_init INFO ] Extension GLX_EXT_buffer_age - present
+[ 11/21/2024 18:15:36.245 glxext_init INFO ] Extension GLX_ARB_create_context_robustness - present
+[ 11/21/2024 18:15:36.245 glxext_init INFO ] Extension GLX_MESA_query_renderer - absent
+[ 11/21/2024 18:15:36.320 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/21/2024 18:41:24.044 x_fetch_region ERROR ] Failed to fetch rectangles (No error)
+[ 11/21/2024 19:56:02.266 glxext_init INFO ] Extension GLX_SGI_video_sync - present
+[ 11/21/2024 19:56:02.266 glxext_init INFO ] Extension GLX_SGI_swap_control - present
+[ 11/21/2024 19:56:02.266 glxext_init INFO ] Extension GLX_OML_sync_control - absent
+[ 11/21/2024 19:56:02.266 glxext_init INFO ] Extension GLX_MESA_swap_control - absent
+[ 11/21/2024 19:56:02.266 glxext_init INFO ] Extension GLX_EXT_swap_control - present
+[ 11/21/2024 19:56:02.266 glxext_init INFO ] Extension GLX_EXT_texture_from_pixmap - present
+[ 11/21/2024 19:56:02.266 glxext_init INFO ] Extension GLX_ARB_create_context - present
+[ 11/21/2024 19:56:02.266 glxext_init INFO ] Extension GLX_EXT_buffer_age - present
+[ 11/21/2024 19:56:02.266 glxext_init INFO ] Extension GLX_ARB_create_context_robustness - present
+[ 11/21/2024 19:56:02.266 glxext_init INFO ] Extension GLX_MESA_query_renderer - absent
+[ 11/21/2024 19:56:02.332 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/21/2024 21:27:34.918 x_fetch_region ERROR ] Failed to fetch rectangles (No error)
+[ 11/22/2024 06:22:30.311 glxext_init INFO ] Extension GLX_SGI_video_sync - present
+[ 11/22/2024 06:22:30.312 glxext_init INFO ] Extension GLX_SGI_swap_control - present
+[ 11/22/2024 06:22:30.312 glxext_init INFO ] Extension GLX_OML_sync_control - absent
+[ 11/22/2024 06:22:30.312 glxext_init INFO ] Extension GLX_MESA_swap_control - absent
+[ 11/22/2024 06:22:30.312 glxext_init INFO ] Extension GLX_EXT_swap_control - present
+[ 11/22/2024 06:22:30.312 glxext_init INFO ] Extension GLX_EXT_texture_from_pixmap - present
+[ 11/22/2024 06:22:30.312 glxext_init INFO ] Extension GLX_ARB_create_context - present
+[ 11/22/2024 06:22:30.312 glxext_init INFO ] Extension GLX_EXT_buffer_age - present
+[ 11/22/2024 06:22:30.312 glxext_init INFO ] Extension GLX_ARB_create_context_robustness - present
+[ 11/22/2024 06:22:30.312 glxext_init INFO ] Extension GLX_MESA_query_renderer - absent
+[ 11/22/2024 06:22:30.390 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/22/2024 07:26:56.782 glxext_init INFO ] Extension GLX_SGI_video_sync - present
+[ 11/22/2024 07:26:56.782 glxext_init INFO ] Extension GLX_SGI_swap_control - present
+[ 11/22/2024 07:26:56.782 glxext_init INFO ] Extension GLX_OML_sync_control - absent
+[ 11/22/2024 07:26:56.782 glxext_init INFO ] Extension GLX_MESA_swap_control - absent
+[ 11/22/2024 07:26:56.782 glxext_init INFO ] Extension GLX_EXT_swap_control - present
+[ 11/22/2024 07:26:56.782 glxext_init INFO ] Extension GLX_EXT_texture_from_pixmap - present
+[ 11/22/2024 07:26:56.782 glxext_init INFO ] Extension GLX_ARB_create_context - present
+[ 11/22/2024 07:26:56.782 glxext_init INFO ] Extension GLX_EXT_buffer_age - present
+[ 11/22/2024 07:26:56.782 glxext_init INFO ] Extension GLX_ARB_create_context_robustness - present
+[ 11/22/2024 07:26:56.782 glxext_init INFO ] Extension GLX_MESA_query_renderer - absent
+[ 11/22/2024 07:26:56.839 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/22/2024 07:30:27.337 configure_root INFO ] Root configuration changed, new geometry: 4480x1600
+[ 11/22/2024 07:30:27.337 configure_root INFO ] Root configuration changed, new geometry: 4480x1600
+[ 11/22/2024 07:30:31.771 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/22/2024 07:30:31.771 main FATAL ERROR ] Failed to create new session.
+[ 11/22/2024 07:35:06.494 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/22/2024 07:35:06.494 main FATAL ERROR ] Failed to create new session.
+[ 11/22/2024 07:35:38.920 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/22/2024 07:35:38.920 main FATAL ERROR ] Failed to create new session.
+[ 11/22/2024 07:35:48.937 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/22/2024 07:35:48.937 main FATAL ERROR ] Failed to create new session.
+[ 11/22/2024 07:36:08.099 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/22/2024 07:36:08.099 main FATAL ERROR ] Failed to create new session.
+[ 11/22/2024 07:39:21.462 x_fetch_region ERROR ] Failed to fetch rectangles (No error)
+[ 11/22/2024 07:39:41.438 glxext_init INFO ] Extension GLX_SGI_video_sync - present
+[ 11/22/2024 07:39:41.438 glxext_init INFO ] Extension GLX_SGI_swap_control - present
+[ 11/22/2024 07:39:41.438 glxext_init INFO ] Extension GLX_OML_sync_control - absent
+[ 11/22/2024 07:39:41.438 glxext_init INFO ] Extension GLX_MESA_swap_control - absent
+[ 11/22/2024 07:39:41.438 glxext_init INFO ] Extension GLX_EXT_swap_control - present
+[ 11/22/2024 07:39:41.438 glxext_init INFO ] Extension GLX_EXT_texture_from_pixmap - present
+[ 11/22/2024 07:39:41.438 glxext_init INFO ] Extension GLX_ARB_create_context - present
+[ 11/22/2024 07:39:41.438 glxext_init INFO ] Extension GLX_EXT_buffer_age - present
+[ 11/22/2024 07:39:41.438 glxext_init INFO ] Extension GLX_ARB_create_context_robustness - present
+[ 11/22/2024 07:39:41.438 glxext_init INFO ] Extension GLX_MESA_query_renderer - absent
+[ 11/22/2024 07:39:41.488 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/22/2024 07:40:07.179 configure_root INFO ] Root configuration changed, new geometry: 4480x1600
+[ 11/22/2024 07:40:07.179 configure_root INFO ] Root configuration changed, new geometry: 4480x1600
+[ 11/22/2024 07:40:11.546 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/22/2024 07:40:11.546 main FATAL ERROR ] Failed to create new session.
+[ 11/22/2024 07:42:10.222 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/22/2024 07:42:10.222 main FATAL ERROR ] Failed to create new session.
+[ 11/22/2024 07:42:16.436 x_fetch_region ERROR ] Failed to fetch rectangles (No error)
+[ 11/22/2024 07:42:36.804 glxext_init INFO ] Extension GLX_SGI_video_sync - present
+[ 11/22/2024 07:42:36.804 glxext_init INFO ] Extension GLX_SGI_swap_control - present
+[ 11/22/2024 07:42:36.804 glxext_init INFO ] Extension GLX_OML_sync_control - absent
+[ 11/22/2024 07:42:36.804 glxext_init INFO ] Extension GLX_MESA_swap_control - absent
+[ 11/22/2024 07:42:36.804 glxext_init INFO ] Extension GLX_EXT_swap_control - present
+[ 11/22/2024 07:42:36.804 glxext_init INFO ] Extension GLX_EXT_texture_from_pixmap - present
+[ 11/22/2024 07:42:36.804 glxext_init INFO ] Extension GLX_ARB_create_context - present
+[ 11/22/2024 07:42:36.804 glxext_init INFO ] Extension GLX_EXT_buffer_age - present
+[ 11/22/2024 07:42:36.804 glxext_init INFO ] Extension GLX_ARB_create_context_robustness - present
+[ 11/22/2024 07:42:36.804 glxext_init INFO ] Extension GLX_MESA_query_renderer - absent
+[ 11/22/2024 07:42:36.850 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/22/2024 07:44:25.811 configure_root INFO ] Root configuration changed, new geometry: 4480x1600
+[ 11/22/2024 07:44:25.812 configure_root INFO ] Root configuration changed, new geometry: 4480x1600
+[ 11/22/2024 07:44:30.129 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/22/2024 07:44:30.129 main FATAL ERROR ] Failed to create new session.
+[ 11/22/2024 07:47:00.230 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/22/2024 07:47:00.230 main FATAL ERROR ] Failed to create new session.
+[ 11/22/2024 07:51:02.455 glxext_init INFO ] Extension GLX_SGI_video_sync - present
+[ 11/22/2024 07:51:02.455 glxext_init INFO ] Extension GLX_SGI_swap_control - present
+[ 11/22/2024 07:51:02.455 glxext_init INFO ] Extension GLX_OML_sync_control - absent
+[ 11/22/2024 07:51:02.455 glxext_init INFO ] Extension GLX_MESA_swap_control - absent
+[ 11/22/2024 07:51:02.455 glxext_init INFO ] Extension GLX_EXT_swap_control - present
+[ 11/22/2024 07:51:02.455 glxext_init INFO ] Extension GLX_EXT_texture_from_pixmap - present
+[ 11/22/2024 07:51:02.455 glxext_init INFO ] Extension GLX_ARB_create_context - present
+[ 11/22/2024 07:51:02.455 glxext_init INFO ] Extension GLX_EXT_buffer_age - present
+[ 11/22/2024 07:51:02.455 glxext_init INFO ] Extension GLX_ARB_create_context_robustness - present
+[ 11/22/2024 07:51:02.455 glxext_init INFO ] Extension GLX_MESA_query_renderer - absent
+[ 11/22/2024 07:51:02.502 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/22/2024 07:51:19.519 configure_root INFO ] Root configuration changed, new geometry: 4480x1600
+[ 11/22/2024 07:51:19.519 configure_root INFO ] Root configuration changed, new geometry: 4480x1600
+[ 11/22/2024 07:51:23.882 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/22/2024 07:51:23.882 main FATAL ERROR ] Failed to create new session.
+[ 11/22/2024 07:53:39.100 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/22/2024 07:53:39.100 main FATAL ERROR ] Failed to create new session.
+[ 11/22/2024 07:54:32.388 glxext_init INFO ] Extension GLX_SGI_video_sync - present
+[ 11/22/2024 07:54:32.388 glxext_init INFO ] Extension GLX_SGI_swap_control - present
+[ 11/22/2024 07:54:32.388 glxext_init INFO ] Extension GLX_OML_sync_control - absent
+[ 11/22/2024 07:54:32.388 glxext_init INFO ] Extension GLX_MESA_swap_control - absent
+[ 11/22/2024 07:54:32.388 glxext_init INFO ] Extension GLX_EXT_swap_control - present
+[ 11/22/2024 07:54:32.388 glxext_init INFO ] Extension GLX_EXT_texture_from_pixmap - present
+[ 11/22/2024 07:54:32.388 glxext_init INFO ] Extension GLX_ARB_create_context - present
+[ 11/22/2024 07:54:32.388 glxext_init INFO ] Extension GLX_EXT_buffer_age - present
+[ 11/22/2024 07:54:32.388 glxext_init INFO ] Extension GLX_ARB_create_context_robustness - present
+[ 11/22/2024 07:54:32.388 glxext_init INFO ] Extension GLX_MESA_query_renderer - absent
+[ 11/22/2024 07:54:32.444 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/22/2024 07:54:45.208 configure_root INFO ] Root configuration changed, new geometry: 4480x1600
+[ 11/22/2024 07:54:45.208 configure_root INFO ] Root configuration changed, new geometry: 4480x1600
+[ 11/22/2024 07:54:49.674 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/22/2024 07:54:49.674 main FATAL ERROR ] Failed to create new session.
+[ 11/22/2024 08:01:36.030 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/22/2024 08:01:36.030 main FATAL ERROR ] Failed to create new session.
+[ 11/22/2024 08:04:24.548 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/22/2024 08:04:24.548 main FATAL ERROR ] Failed to create new session.
+[ 11/22/2024 08:07:12.565 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/22/2024 08:07:12.565 main FATAL ERROR ] Failed to create new session.
+[ 11/22/2024 08:08:52.230 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/22/2024 08:08:52.230 main FATAL ERROR ] Failed to create new session.
+[ 11/22/2024 08:09:13.432 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/22/2024 08:09:13.432 main FATAL ERROR ] Failed to create new session.
+[ 11/22/2024 08:09:23.661 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/22/2024 08:09:23.661 main FATAL ERROR ] Failed to create new session.
+[ 11/22/2024 08:11:22.215 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/22/2024 08:11:22.215 main FATAL ERROR ] Failed to create new session.
+[ 11/22/2024 08:13:20.682 glxext_init INFO ] Extension GLX_SGI_video_sync - present
+[ 11/22/2024 08:13:20.682 glxext_init INFO ] Extension GLX_SGI_swap_control - present
+[ 11/22/2024 08:13:20.682 glxext_init INFO ] Extension GLX_OML_sync_control - absent
+[ 11/22/2024 08:13:20.682 glxext_init INFO ] Extension GLX_MESA_swap_control - absent
+[ 11/22/2024 08:13:20.682 glxext_init INFO ] Extension GLX_EXT_swap_control - present
+[ 11/22/2024 08:13:20.682 glxext_init INFO ] Extension GLX_EXT_texture_from_pixmap - present
+[ 11/22/2024 08:13:20.682 glxext_init INFO ] Extension GLX_ARB_create_context - present
+[ 11/22/2024 08:13:20.682 glxext_init INFO ] Extension GLX_EXT_buffer_age - present
+[ 11/22/2024 08:13:20.682 glxext_init INFO ] Extension GLX_ARB_create_context_robustness - present
+[ 11/22/2024 08:13:20.682 glxext_init INFO ] Extension GLX_MESA_query_renderer - absent
+[ 11/22/2024 08:13:20.757 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/22/2024 08:13:30.278 configure_root INFO ] Root configuration changed, new geometry: 4480x1600
+[ 11/22/2024 08:13:30.278 configure_root INFO ] Root configuration changed, new geometry: 4480x1600
+[ 11/22/2024 08:13:34.734 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/22/2024 08:13:34.734 main FATAL ERROR ] Failed to create new session.
+[ 11/22/2024 21:11:54.686 glxext_init INFO ] Extension GLX_SGI_video_sync - present
+[ 11/22/2024 21:11:54.687 glxext_init INFO ] Extension GLX_SGI_swap_control - present
+[ 11/22/2024 21:11:54.687 glxext_init INFO ] Extension GLX_OML_sync_control - absent
+[ 11/22/2024 21:11:54.687 glxext_init INFO ] Extension GLX_MESA_swap_control - absent
+[ 11/22/2024 21:11:54.687 glxext_init INFO ] Extension GLX_EXT_swap_control - present
+[ 11/22/2024 21:11:54.687 glxext_init INFO ] Extension GLX_EXT_texture_from_pixmap - present
+[ 11/22/2024 21:11:54.687 glxext_init INFO ] Extension GLX_ARB_create_context - present
+[ 11/22/2024 21:11:54.687 glxext_init INFO ] Extension GLX_EXT_buffer_age - present
+[ 11/22/2024 21:11:54.687 glxext_init INFO ] Extension GLX_ARB_create_context_robustness - present
+[ 11/22/2024 21:11:54.687 glxext_init INFO ] Extension GLX_MESA_query_renderer - absent
+[ 11/22/2024 21:11:54.729 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/22/2024 21:12:04.826 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/22/2024 21:12:04.826 main FATAL ERROR ] Failed to create new session.
+[ 11/22/2024 21:32:17.544 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/22/2024 21:32:17.544 main FATAL ERROR ] Failed to create new session.
+[ 11/22/2024 21:33:19.508 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/22/2024 21:33:19.508 main FATAL ERROR ] Failed to create new session.
+[ 11/22/2024 21:34:21.815 glxext_init INFO ] Extension GLX_SGI_video_sync - present
+[ 11/22/2024 21:34:21.815 glxext_init INFO ] Extension GLX_SGI_swap_control - present
+[ 11/22/2024 21:34:21.815 glxext_init INFO ] Extension GLX_OML_sync_control - absent
+[ 11/22/2024 21:34:21.815 glxext_init INFO ] Extension GLX_MESA_swap_control - absent
+[ 11/22/2024 21:34:21.815 glxext_init INFO ] Extension GLX_EXT_swap_control - present
+[ 11/22/2024 21:34:21.815 glxext_init INFO ] Extension GLX_EXT_texture_from_pixmap - present
+[ 11/22/2024 21:34:21.815 glxext_init INFO ] Extension GLX_ARB_create_context - present
+[ 11/22/2024 21:34:21.815 glxext_init INFO ] Extension GLX_EXT_buffer_age - present
+[ 11/22/2024 21:34:21.815 glxext_init INFO ] Extension GLX_ARB_create_context_robustness - present
+[ 11/22/2024 21:34:21.815 glxext_init INFO ] Extension GLX_MESA_query_renderer - absent
+[ 11/22/2024 21:34:21.870 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/22/2024 21:39:16.601 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/22/2024 21:39:16.601 main FATAL ERROR ] Failed to create new session.
+[ 11/22/2024 21:40:14.433 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/22/2024 21:40:14.433 main FATAL ERROR ] Failed to create new session.
+[ 11/22/2024 21:41:37.998 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/22/2024 21:41:37.998 main FATAL ERROR ] Failed to create new session.
+[ 11/22/2024 21:42:03.594 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/22/2024 21:42:03.594 main FATAL ERROR ] Failed to create new session.
+[ 11/22/2024 21:42:39.058 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/22/2024 21:42:39.059 main FATAL ERROR ] Failed to create new session.
+[ 11/22/2024 21:43:17.342 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/22/2024 21:43:17.342 main FATAL ERROR ] Failed to create new session.
+[ 11/23/2024 06:49:19.622 glxext_init INFO ] Extension GLX_SGI_video_sync - present
+[ 11/23/2024 06:49:19.622 glxext_init INFO ] Extension GLX_SGI_swap_control - present
+[ 11/23/2024 06:49:19.622 glxext_init INFO ] Extension GLX_OML_sync_control - absent
+[ 11/23/2024 06:49:19.622 glxext_init INFO ] Extension GLX_MESA_swap_control - absent
+[ 11/23/2024 06:49:19.622 glxext_init INFO ] Extension GLX_EXT_swap_control - present
+[ 11/23/2024 06:49:19.622 glxext_init INFO ] Extension GLX_EXT_texture_from_pixmap - present
+[ 11/23/2024 06:49:19.622 glxext_init INFO ] Extension GLX_ARB_create_context - present
+[ 11/23/2024 06:49:19.622 glxext_init INFO ] Extension GLX_EXT_buffer_age - present
+[ 11/23/2024 06:49:19.622 glxext_init INFO ] Extension GLX_ARB_create_context_robustness - present
+[ 11/23/2024 06:49:19.622 glxext_init INFO ] Extension GLX_MESA_query_renderer - absent
+[ 11/23/2024 06:49:19.675 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/23/2024 07:23:57.381 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/23/2024 07:23:57.381 main FATAL ERROR ] Failed to create new session.
+[ 11/23/2024 07:25:28.459 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/23/2024 07:25:28.459 main FATAL ERROR ] Failed to create new session.
+[ 11/23/2024 07:26:17.673 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/23/2024 07:26:17.673 main FATAL ERROR ] Failed to create new session.
+[ 11/23/2024 07:26:25.369 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/23/2024 07:26:25.369 main FATAL ERROR ] Failed to create new session.
+[ 11/23/2024 07:27:16.082 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/23/2024 07:27:16.082 main FATAL ERROR ] Failed to create new session.
+[ 11/23/2024 07:27:26.564 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/23/2024 07:27:26.564 main FATAL ERROR ] Failed to create new session.
+[ 11/23/2024 07:28:01.923 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/23/2024 07:28:01.923 main FATAL ERROR ] Failed to create new session.
+[ 11/23/2024 07:30:08.460 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/23/2024 07:30:08.460 main FATAL ERROR ] Failed to create new session.
+[ 11/23/2024 07:46:47.204 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/23/2024 07:46:47.204 main FATAL ERROR ] Failed to create new session.
+[ 11/23/2024 08:43:08.046 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/23/2024 08:43:08.046 main FATAL ERROR ] Failed to create new session.
+[ 11/23/2024 08:44:22.623 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/23/2024 08:44:22.624 main FATAL ERROR ] Failed to create new session.
+[ 11/23/2024 08:44:57.753 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/23/2024 08:44:57.753 main FATAL ERROR ] Failed to create new session.
+[ 11/23/2024 09:10:35.176 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/23/2024 09:10:35.176 main FATAL ERROR ] Failed to create new session.
+[ 11/23/2024 09:10:47.438 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/23/2024 09:10:47.438 main FATAL ERROR ] Failed to create new session.
+[ 11/23/2024 09:28:52.842 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/23/2024 09:28:52.842 main FATAL ERROR ] Failed to create new session.
+[ 11/23/2024 09:29:07.118 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/23/2024 09:29:07.118 main FATAL ERROR ] Failed to create new session.
+[ 11/23/2024 09:38:25.283 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/23/2024 09:38:25.283 main FATAL ERROR ] Failed to create new session.
+[ 11/23/2024 09:40:48.622 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/23/2024 09:40:48.622 main FATAL ERROR ] Failed to create new session.
+[ 11/23/2024 09:46:04.149 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/23/2024 09:46:04.149 main FATAL ERROR ] Failed to create new session.
+[ 11/23/2024 09:46:18.153 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/23/2024 09:46:18.153 main FATAL ERROR ] Failed to create new session.
+[ 11/23/2024 09:46:48.060 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/23/2024 09:46:48.060 main FATAL ERROR ] Failed to create new session.
+[ 11/23/2024 09:47:10.786 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/23/2024 09:47:10.786 main FATAL ERROR ] Failed to create new session.
+[ 11/23/2024 09:47:19.872 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/23/2024 09:47:19.872 main FATAL ERROR ] Failed to create new session.
+[ 11/23/2024 09:48:25.036 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/23/2024 09:48:25.036 main FATAL ERROR ] Failed to create new session.
+[ 11/23/2024 09:48:55.464 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/23/2024 09:48:55.464 main FATAL ERROR ] Failed to create new session.
+[ 11/23/2024 09:50:00.026 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/23/2024 09:50:00.026 main FATAL ERROR ] Failed to create new session.
+[ 11/23/2024 10:00:41.514 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/23/2024 10:00:41.514 main FATAL ERROR ] Failed to create new session.
+[ 11/23/2024 10:09:00.429 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/23/2024 10:09:00.429 main FATAL ERROR ] Failed to create new session.
+[ 11/23/2024 10:09:42.261 glxext_init INFO ] Extension GLX_SGI_video_sync - present
+[ 11/23/2024 10:09:42.261 glxext_init INFO ] Extension GLX_SGI_swap_control - present
+[ 11/23/2024 10:09:42.261 glxext_init INFO ] Extension GLX_OML_sync_control - absent
+[ 11/23/2024 10:09:42.261 glxext_init INFO ] Extension GLX_MESA_swap_control - absent
+[ 11/23/2024 10:09:42.261 glxext_init INFO ] Extension GLX_EXT_swap_control - present
+[ 11/23/2024 10:09:42.261 glxext_init INFO ] Extension GLX_EXT_texture_from_pixmap - present
+[ 11/23/2024 10:09:42.261 glxext_init INFO ] Extension GLX_ARB_create_context - present
+[ 11/23/2024 10:09:42.261 glxext_init INFO ] Extension GLX_EXT_buffer_age - present
+[ 11/23/2024 10:09:42.261 glxext_init INFO ] Extension GLX_ARB_create_context_robustness - present
+[ 11/23/2024 10:09:42.261 glxext_init INFO ] Extension GLX_MESA_query_renderer - absent
+[ 11/23/2024 10:09:42.318 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/23/2024 10:11:25.070 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/23/2024 10:11:25.070 main FATAL ERROR ] Failed to create new session.
+[ 11/23/2024 11:07:28.424 configure_root INFO ] Root configuration changed, new geometry: 2560x1600
+[ 11/23/2024 11:08:38.150 configure_root INFO ] Root configuration changed, new geometry: 6000x1600
+[ 11/23/2024 11:08:38.163 configure_root INFO ] Root configuration changed, new geometry: 6000x1600
+[ 11/23/2024 11:08:45.317 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/23/2024 11:08:45.317 main FATAL ERROR ] Failed to create new session.
+[ 11/23/2024 11:20:02.148 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/23/2024 11:20:02.148 main FATAL ERROR ] Failed to create new session.
+[ 11/23/2024 12:25:26.140 configure_root INFO ] Root configuration changed, new geometry: 6000x1600
+[ 11/23/2024 12:25:54.337 configure_root INFO ] Root configuration changed, new geometry: 2560x1600
+[ 11/23/2024 12:28:03.982 configure_root INFO ] Root configuration changed, new geometry: 6000x1600
+[ 11/23/2024 12:28:03.982 configure_root INFO ] Root configuration changed, new geometry: 6000x1600
+[ 11/23/2024 12:28:03.982 configure_root INFO ] Root configuration changed, new geometry: 6000x1600
+[ 11/23/2024 12:28:22.342 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/23/2024 12:28:22.342 main FATAL ERROR ] Failed to create new session.
+[ 11/23/2024 13:15:05.605 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/23/2024 13:15:05.605 main FATAL ERROR ] Failed to create new session.
+[ 11/23/2024 13:31:00.894 configure_root INFO ] Root configuration changed, new geometry: 6000x1600
+[ 11/23/2024 13:31:43.905 configure_root INFO ] Root configuration changed, new geometry: 2560x1600
+[ 11/23/2024 13:31:46.945 configure_root INFO ] Root configuration changed, new geometry: 6000x1600
+[ 11/23/2024 13:31:46.945 configure_root INFO ] Root configuration changed, new geometry: 6000x1600
+[ 11/23/2024 13:31:56.249 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/23/2024 13:31:56.249 main FATAL ERROR ] Failed to create new session.
+[ 11/23/2024 17:17:49.218 configure_root INFO ] Root configuration changed, new geometry: 6000x1600
+[ 11/23/2024 17:18:23.482 configure_root INFO ] Root configuration changed, new geometry: 6000x1600
+[ 11/23/2024 17:18:48.780 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/23/2024 17:18:48.780 main FATAL ERROR ] Failed to create new session.
+[ 11/23/2024 19:09:34.616 configure_root INFO ] Root configuration changed, new geometry: 6000x1600
+[ 11/23/2024 19:09:58.311 configure_root INFO ] Root configuration changed, new geometry: 2560x1600
+[ 11/23/2024 19:09:59.918 configure_root INFO ] Root configuration changed, new geometry: 6000x1600
+[ 11/23/2024 19:09:59.918 configure_root INFO ] Root configuration changed, new geometry: 6000x1600
+[ 11/23/2024 19:10:09.190 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/23/2024 19:10:09.190 main FATAL ERROR ] Failed to create new session.
+[ 11/23/2024 21:09:13.685 configure_root INFO ] Root configuration changed, new geometry: 6000x1600
+[ 11/23/2024 21:21:01.456 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/23/2024 21:21:01.456 main FATAL ERROR ] Failed to create new session.
+[ 11/24/2024 06:39:31.253 glxext_init INFO ] Extension GLX_SGI_video_sync - present
+[ 11/24/2024 06:39:31.253 glxext_init INFO ] Extension GLX_SGI_swap_control - present
+[ 11/24/2024 06:39:31.253 glxext_init INFO ] Extension GLX_OML_sync_control - absent
+[ 11/24/2024 06:39:31.253 glxext_init INFO ] Extension GLX_MESA_swap_control - absent
+[ 11/24/2024 06:39:31.253 glxext_init INFO ] Extension GLX_EXT_swap_control - present
+[ 11/24/2024 06:39:31.253 glxext_init INFO ] Extension GLX_EXT_texture_from_pixmap - present
+[ 11/24/2024 06:39:31.253 glxext_init INFO ] Extension GLX_ARB_create_context - present
+[ 11/24/2024 06:39:31.253 glxext_init INFO ] Extension GLX_EXT_buffer_age - present
+[ 11/24/2024 06:39:31.253 glxext_init INFO ] Extension GLX_ARB_create_context_robustness - present
+[ 11/24/2024 06:39:31.253 glxext_init INFO ] Extension GLX_MESA_query_renderer - absent
+[ 11/24/2024 06:39:31.327 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/24/2024 06:45:33.411 configure_root INFO ] Root configuration changed, new geometry: 2560x1600
+[ 11/24/2024 06:45:37.966 configure_root INFO ] Root configuration changed, new geometry: 6000x1600
+[ 11/24/2024 06:45:37.966 configure_root INFO ] Root configuration changed, new geometry: 6000x1600
+[ 11/24/2024 06:45:47.020 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/24/2024 06:45:47.020 main FATAL ERROR ] Failed to create new session.
+[ 11/24/2024 07:57:24.250 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/24/2024 07:57:24.250 main FATAL ERROR ] Failed to create new session.
+[ 11/24/2024 08:01:37.096 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/24/2024 08:01:37.096 main FATAL ERROR ] Failed to create new session.
+[ 11/24/2024 08:02:19.085 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/24/2024 08:02:19.085 main FATAL ERROR ] Failed to create new session.
+[ 11/24/2024 08:03:17.912 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/24/2024 08:03:17.912 main FATAL ERROR ] Failed to create new session.
+[ 11/24/2024 08:05:28.555 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/24/2024 08:05:28.555 main FATAL ERROR ] Failed to create new session.
+[ 11/24/2024 11:13:00.472 glxext_init INFO ] Extension GLX_SGI_video_sync - present
+[ 11/24/2024 11:13:00.472 glxext_init INFO ] Extension GLX_SGI_swap_control - present
+[ 11/24/2024 11:13:00.472 glxext_init INFO ] Extension GLX_OML_sync_control - absent
+[ 11/24/2024 11:13:00.472 glxext_init INFO ] Extension GLX_MESA_swap_control - absent
+[ 11/24/2024 11:13:00.472 glxext_init INFO ] Extension GLX_EXT_swap_control - present
+[ 11/24/2024 11:13:00.472 glxext_init INFO ] Extension GLX_EXT_texture_from_pixmap - present
+[ 11/24/2024 11:13:00.472 glxext_init INFO ] Extension GLX_ARB_create_context - present
+[ 11/24/2024 11:13:00.472 glxext_init INFO ] Extension GLX_EXT_buffer_age - present
+[ 11/24/2024 11:13:00.472 glxext_init INFO ] Extension GLX_ARB_create_context_robustness - present
+[ 11/24/2024 11:13:00.472 glxext_init INFO ] Extension GLX_MESA_query_renderer - absent
+[ 11/24/2024 11:13:00.544 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/24/2024 11:14:38.012 configure_root INFO ] Root configuration changed, new geometry: 3440x3040
+[ 11/24/2024 11:14:38.012 configure_root INFO ] Root configuration changed, new geometry: 3440x3040
+[ 11/24/2024 11:14:40.379 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/24/2024 11:14:40.379 main FATAL ERROR ] Failed to create new session.
+[ 11/24/2024 12:18:57.714 configure_root INFO ] Root configuration changed, new geometry: 3440x3040
+[ 11/24/2024 12:19:28.996 configure_root INFO ] Root configuration changed, new geometry: 3440x3040
+[ 11/24/2024 15:01:55.502 configure_root INFO ] Root configuration changed, new geometry: 3440x3040
+[ 11/24/2024 15:02:22.318 configure_root INFO ] Root configuration changed, new geometry: 2560x1600
+[ 11/24/2024 15:02:26.420 configure_root INFO ] Root configuration changed, new geometry: 3440x3040
+[ 11/24/2024 15:02:26.420 configure_root INFO ] Root configuration changed, new geometry: 3440x3040
+[ 11/24/2024 15:02:33.920 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/24/2024 15:02:33.920 main FATAL ERROR ] Failed to create new session.
+[ 11/24/2024 17:33:58.158 configure_root INFO ] Root configuration changed, new geometry: 3440x3040
+[ 11/24/2024 18:49:58.243 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/24/2024 18:49:58.243 main FATAL ERROR ] Failed to create new session.
+[ 11/24/2024 18:52:04.782 configure_root INFO ] Root configuration changed, new geometry: 2560x1600
+[ 11/25/2024 06:23:13.835 glxext_init INFO ] Extension GLX_SGI_video_sync - present
+[ 11/25/2024 06:23:13.835 glxext_init INFO ] Extension GLX_SGI_swap_control - present
+[ 11/25/2024 06:23:13.835 glxext_init INFO ] Extension GLX_OML_sync_control - absent
+[ 11/25/2024 06:23:13.835 glxext_init INFO ] Extension GLX_MESA_swap_control - absent
+[ 11/25/2024 06:23:13.835 glxext_init INFO ] Extension GLX_EXT_swap_control - present
+[ 11/25/2024 06:23:13.835 glxext_init INFO ] Extension GLX_EXT_texture_from_pixmap - present
+[ 11/25/2024 06:23:13.835 glxext_init INFO ] Extension GLX_ARB_create_context - present
+[ 11/25/2024 06:23:13.835 glxext_init INFO ] Extension GLX_EXT_buffer_age - present
+[ 11/25/2024 06:23:13.835 glxext_init INFO ] Extension GLX_ARB_create_context_robustness - present
+[ 11/25/2024 06:23:13.835 glxext_init INFO ] Extension GLX_MESA_query_renderer - absent
+[ 11/25/2024 06:23:13.916 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/25/2024 07:33:23.137 glxext_init INFO ] Extension GLX_SGI_video_sync - present
+[ 11/25/2024 07:33:23.137 glxext_init INFO ] Extension GLX_SGI_swap_control - present
+[ 11/25/2024 07:33:23.137 glxext_init INFO ] Extension GLX_OML_sync_control - absent
+[ 11/25/2024 07:33:23.137 glxext_init INFO ] Extension GLX_MESA_swap_control - absent
+[ 11/25/2024 07:33:23.137 glxext_init INFO ] Extension GLX_EXT_swap_control - present
+[ 11/25/2024 07:33:23.137 glxext_init INFO ] Extension GLX_EXT_texture_from_pixmap - present
+[ 11/25/2024 07:33:23.137 glxext_init INFO ] Extension GLX_ARB_create_context - present
+[ 11/25/2024 07:33:23.137 glxext_init INFO ] Extension GLX_EXT_buffer_age - present
+[ 11/25/2024 07:33:23.137 glxext_init INFO ] Extension GLX_ARB_create_context_robustness - present
+[ 11/25/2024 07:33:23.137 glxext_init INFO ] Extension GLX_MESA_query_renderer - absent
+[ 11/25/2024 07:33:23.186 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/25/2024 07:33:39.218 configure_root INFO ] Root configuration changed, new geometry: 4480x1600
+[ 11/25/2024 07:33:39.218 configure_root INFO ] Root configuration changed, new geometry: 4480x1600
+[ 11/25/2024 07:33:44.135 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/25/2024 07:33:44.135 main FATAL ERROR ] Failed to create new session.
+[ 11/25/2024 12:55:00.154 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/25/2024 12:55:00.154 main FATAL ERROR ] Failed to create new session.
+[ 11/25/2024 12:56:23.025 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/25/2024 12:56:23.025 main FATAL ERROR ] Failed to create new session.
+[ 11/25/2024 12:56:30.770 configure_root INFO ] Root configuration changed, new geometry: 2560x1600
+[ 11/25/2024 12:56:30.771 configure_root INFO ] Root configuration changed, new geometry: 2560x1600
+[ 11/25/2024 12:56:33.096 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/25/2024 12:56:33.096 main FATAL ERROR ] Failed to create new session.
+[ 11/25/2024 14:27:01.706 configure_root INFO ] Root configuration changed, new geometry: 4480x1600
+[ 11/25/2024 14:27:01.706 configure_root INFO ] Root configuration changed, new geometry: 4480x1600
+[ 11/25/2024 14:27:06.790 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/25/2024 14:27:06.790 main FATAL ERROR ] Failed to create new session.
+[ 11/25/2024 16:46:33.439 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/25/2024 16:46:33.439 main FATAL ERROR ] Failed to create new session.
+[ 11/25/2024 18:01:15.710 glxext_init INFO ] Extension GLX_SGI_video_sync - present
+[ 11/25/2024 18:01:15.710 glxext_init INFO ] Extension GLX_SGI_swap_control - present
+[ 11/25/2024 18:01:15.710 glxext_init INFO ] Extension GLX_OML_sync_control - absent
+[ 11/25/2024 18:01:15.710 glxext_init INFO ] Extension GLX_MESA_swap_control - absent
+[ 11/25/2024 18:01:15.710 glxext_init INFO ] Extension GLX_EXT_swap_control - present
+[ 11/25/2024 18:01:15.710 glxext_init INFO ] Extension GLX_EXT_texture_from_pixmap - present
+[ 11/25/2024 18:01:15.710 glxext_init INFO ] Extension GLX_ARB_create_context - present
+[ 11/25/2024 18:01:15.710 glxext_init INFO ] Extension GLX_EXT_buffer_age - present
+[ 11/25/2024 18:01:15.710 glxext_init INFO ] Extension GLX_ARB_create_context_robustness - present
+[ 11/25/2024 18:01:15.710 glxext_init INFO ] Extension GLX_MESA_query_renderer - absent
+[ 11/25/2024 18:01:15.789 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/26/2024 06:23:00.710 glxext_init INFO ] Extension GLX_SGI_video_sync - present
+[ 11/26/2024 06:23:00.710 glxext_init INFO ] Extension GLX_SGI_swap_control - present
+[ 11/26/2024 06:23:00.710 glxext_init INFO ] Extension GLX_OML_sync_control - absent
+[ 11/26/2024 06:23:00.710 glxext_init INFO ] Extension GLX_MESA_swap_control - absent
+[ 11/26/2024 06:23:00.710 glxext_init INFO ] Extension GLX_EXT_swap_control - present
+[ 11/26/2024 06:23:00.710 glxext_init INFO ] Extension GLX_EXT_texture_from_pixmap - present
+[ 11/26/2024 06:23:00.710 glxext_init INFO ] Extension GLX_ARB_create_context - present
+[ 11/26/2024 06:23:00.710 glxext_init INFO ] Extension GLX_EXT_buffer_age - present
+[ 11/26/2024 06:23:00.710 glxext_init INFO ] Extension GLX_ARB_create_context_robustness - present
+[ 11/26/2024 06:23:00.710 glxext_init INFO ] Extension GLX_MESA_query_renderer - absent
+[ 11/26/2024 06:23:00.792 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/26/2024 07:29:52.719 glxext_init INFO ] Extension GLX_SGI_video_sync - present
+[ 11/26/2024 07:29:52.719 glxext_init INFO ] Extension GLX_SGI_swap_control - present
+[ 11/26/2024 07:29:52.719 glxext_init INFO ] Extension GLX_OML_sync_control - absent
+[ 11/26/2024 07:29:52.719 glxext_init INFO ] Extension GLX_MESA_swap_control - absent
+[ 11/26/2024 07:29:52.719 glxext_init INFO ] Extension GLX_EXT_swap_control - present
+[ 11/26/2024 07:29:52.719 glxext_init INFO ] Extension GLX_EXT_texture_from_pixmap - present
+[ 11/26/2024 07:29:52.719 glxext_init INFO ] Extension GLX_ARB_create_context - present
+[ 11/26/2024 07:29:52.719 glxext_init INFO ] Extension GLX_EXT_buffer_age - present
+[ 11/26/2024 07:29:52.719 glxext_init INFO ] Extension GLX_ARB_create_context_robustness - present
+[ 11/26/2024 07:29:52.719 glxext_init INFO ] Extension GLX_MESA_query_renderer - absent
+[ 11/26/2024 07:29:52.784 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/26/2024 07:30:45.974 configure_root INFO ] Root configuration changed, new geometry: 4480x1600
+[ 11/26/2024 07:30:45.974 configure_root INFO ] Root configuration changed, new geometry: 4480x1600
+[ 11/26/2024 07:30:50.275 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/26/2024 07:30:50.275 main FATAL ERROR ] Failed to create new session.
+[ 11/26/2024 07:51:48.823 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/26/2024 07:51:48.824 main FATAL ERROR ] Failed to create new session.
+[ 11/26/2024 12:51:21.444 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/26/2024 12:51:21.444 main FATAL ERROR ] Failed to create new session.
+[ 11/26/2024 16:25:04.293 c2_window_state_update_from_replies WARN ] Failed to get property 0 for window 0x0420001a, some window rules might not work.
+[ 11/27/2024 06:25:39.758 glxext_init INFO ] Extension GLX_SGI_video_sync - present
+[ 11/27/2024 06:25:39.758 glxext_init INFO ] Extension GLX_SGI_swap_control - present
+[ 11/27/2024 06:25:39.758 glxext_init INFO ] Extension GLX_OML_sync_control - absent
+[ 11/27/2024 06:25:39.758 glxext_init INFO ] Extension GLX_MESA_swap_control - absent
+[ 11/27/2024 06:25:39.758 glxext_init INFO ] Extension GLX_EXT_swap_control - present
+[ 11/27/2024 06:25:39.758 glxext_init INFO ] Extension GLX_EXT_texture_from_pixmap - present
+[ 11/27/2024 06:25:39.758 glxext_init INFO ] Extension GLX_ARB_create_context - present
+[ 11/27/2024 06:25:39.758 glxext_init INFO ] Extension GLX_EXT_buffer_age - present
+[ 11/27/2024 06:25:39.758 glxext_init INFO ] Extension GLX_ARB_create_context_robustness - present
+[ 11/27/2024 06:25:39.758 glxext_init INFO ] Extension GLX_MESA_query_renderer - absent
+[ 11/27/2024 06:25:39.836 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/27/2024 07:37:47.354 glxext_init INFO ] Extension GLX_SGI_video_sync - present
+[ 11/27/2024 07:37:47.354 glxext_init INFO ] Extension GLX_SGI_swap_control - present
+[ 11/27/2024 07:37:47.354 glxext_init INFO ] Extension GLX_OML_sync_control - absent
+[ 11/27/2024 07:37:47.354 glxext_init INFO ] Extension GLX_MESA_swap_control - absent
+[ 11/27/2024 07:37:47.354 glxext_init INFO ] Extension GLX_EXT_swap_control - present
+[ 11/27/2024 07:37:47.354 glxext_init INFO ] Extension GLX_EXT_texture_from_pixmap - present
+[ 11/27/2024 07:37:47.354 glxext_init INFO ] Extension GLX_ARB_create_context - present
+[ 11/27/2024 07:37:47.354 glxext_init INFO ] Extension GLX_EXT_buffer_age - present
+[ 11/27/2024 07:37:47.354 glxext_init INFO ] Extension GLX_ARB_create_context_robustness - present
+[ 11/27/2024 07:37:47.354 glxext_init INFO ] Extension GLX_MESA_query_renderer - absent
+[ 11/27/2024 07:37:47.407 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/27/2024 07:40:33.158 configure_root INFO ] Root configuration changed, new geometry: 4480x1600
+[ 11/27/2024 07:40:33.158 configure_root INFO ] Root configuration changed, new geometry: 4480x1600
+[ 11/27/2024 07:40:37.658 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/27/2024 07:40:37.658 main FATAL ERROR ] Failed to create new session.
+[ 11/27/2024 17:37:44.150 glxext_init INFO ] Extension GLX_SGI_video_sync - present
+[ 11/27/2024 17:37:44.150 glxext_init INFO ] Extension GLX_SGI_swap_control - present
+[ 11/27/2024 17:37:44.150 glxext_init INFO ] Extension GLX_OML_sync_control - absent
+[ 11/27/2024 17:37:44.150 glxext_init INFO ] Extension GLX_MESA_swap_control - absent
+[ 11/27/2024 17:37:44.150 glxext_init INFO ] Extension GLX_EXT_swap_control - present
+[ 11/27/2024 17:37:44.150 glxext_init INFO ] Extension GLX_EXT_texture_from_pixmap - present
+[ 11/27/2024 17:37:44.150 glxext_init INFO ] Extension GLX_ARB_create_context - present
+[ 11/27/2024 17:37:44.150 glxext_init INFO ] Extension GLX_EXT_buffer_age - present
+[ 11/27/2024 17:37:44.150 glxext_init INFO ] Extension GLX_ARB_create_context_robustness - present
+[ 11/27/2024 17:37:44.150 glxext_init INFO ] Extension GLX_MESA_query_renderer - absent
+[ 11/27/2024 17:37:44.232 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/27/2024 18:04:02.025 glxext_init INFO ] Extension GLX_SGI_video_sync - present
+[ 11/27/2024 18:04:02.025 glxext_init INFO ] Extension GLX_SGI_swap_control - present
+[ 11/27/2024 18:04:02.025 glxext_init INFO ] Extension GLX_OML_sync_control - absent
+[ 11/27/2024 18:04:02.025 glxext_init INFO ] Extension GLX_MESA_swap_control - absent
+[ 11/27/2024 18:04:02.025 glxext_init INFO ] Extension GLX_EXT_swap_control - present
+[ 11/27/2024 18:04:02.025 glxext_init INFO ] Extension GLX_EXT_texture_from_pixmap - present
+[ 11/27/2024 18:04:02.025 glxext_init INFO ] Extension GLX_ARB_create_context - present
+[ 11/27/2024 18:04:02.025 glxext_init INFO ] Extension GLX_EXT_buffer_age - present
+[ 11/27/2024 18:04:02.025 glxext_init INFO ] Extension GLX_ARB_create_context_robustness - present
+[ 11/27/2024 18:04:02.025 glxext_init INFO ] Extension GLX_MESA_query_renderer - absent
+[ 11/27/2024 18:04:02.103 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/28/2024 07:42:32.826 glxext_init INFO ] Extension GLX_SGI_video_sync - present
+[ 11/28/2024 07:42:32.826 glxext_init INFO ] Extension GLX_SGI_swap_control - present
+[ 11/28/2024 07:42:32.826 glxext_init INFO ] Extension GLX_OML_sync_control - absent
+[ 11/28/2024 07:42:32.826 glxext_init INFO ] Extension GLX_MESA_swap_control - absent
+[ 11/28/2024 07:42:32.826 glxext_init INFO ] Extension GLX_EXT_swap_control - present
+[ 11/28/2024 07:42:32.826 glxext_init INFO ] Extension GLX_EXT_texture_from_pixmap - present
+[ 11/28/2024 07:42:32.826 glxext_init INFO ] Extension GLX_ARB_create_context - present
+[ 11/28/2024 07:42:32.826 glxext_init INFO ] Extension GLX_EXT_buffer_age - present
+[ 11/28/2024 07:42:32.826 glxext_init INFO ] Extension GLX_ARB_create_context_robustness - present
+[ 11/28/2024 07:42:32.826 glxext_init INFO ] Extension GLX_MESA_query_renderer - absent
+[ 11/28/2024 07:42:32.884 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/28/2024 07:46:00.395 configure_root INFO ] Root configuration changed, new geometry: 4480x1600
+[ 11/28/2024 07:46:00.395 configure_root INFO ] Root configuration changed, new geometry: 4480x1600
+[ 11/28/2024 07:46:04.928 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/28/2024 07:46:04.928 main FATAL ERROR ] Failed to create new session.
+[ 11/28/2024 12:40:03.090 glxext_init INFO ] Extension GLX_SGI_video_sync - present
+[ 11/28/2024 12:40:03.090 glxext_init INFO ] Extension GLX_SGI_swap_control - present
+[ 11/28/2024 12:40:03.090 glxext_init INFO ] Extension GLX_OML_sync_control - absent
+[ 11/28/2024 12:40:03.090 glxext_init INFO ] Extension GLX_MESA_swap_control - absent
+[ 11/28/2024 12:40:03.090 glxext_init INFO ] Extension GLX_EXT_swap_control - present
+[ 11/28/2024 12:40:03.090 glxext_init INFO ] Extension GLX_EXT_texture_from_pixmap - present
+[ 11/28/2024 12:40:03.090 glxext_init INFO ] Extension GLX_ARB_create_context - present
+[ 11/28/2024 12:40:03.090 glxext_init INFO ] Extension GLX_EXT_buffer_age - present
+[ 11/28/2024 12:40:03.090 glxext_init INFO ] Extension GLX_ARB_create_context_robustness - present
+[ 11/28/2024 12:40:03.090 glxext_init INFO ] Extension GLX_MESA_query_renderer - absent
+[ 11/28/2024 12:40:03.143 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/28/2024 12:40:15.478 configure_root INFO ] Root configuration changed, new geometry: 4480x1600
+[ 11/28/2024 12:40:15.478 configure_root INFO ] Root configuration changed, new geometry: 4480x1600
+[ 11/28/2024 12:40:20.328 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/28/2024 12:40:20.328 main FATAL ERROR ] Failed to create new session.
+[ 11/28/2024 12:54:01.581 x_fetch_region ERROR ] Failed to fetch rectangles (No error)
+[ 11/28/2024 12:54:23.387 glxext_init INFO ] Extension GLX_SGI_video_sync - present
+[ 11/28/2024 12:54:23.387 glxext_init INFO ] Extension GLX_SGI_swap_control - present
+[ 11/28/2024 12:54:23.387 glxext_init INFO ] Extension GLX_OML_sync_control - absent
+[ 11/28/2024 12:54:23.387 glxext_init INFO ] Extension GLX_MESA_swap_control - absent
+[ 11/28/2024 12:54:23.387 glxext_init INFO ] Extension GLX_EXT_swap_control - present
+[ 11/28/2024 12:54:23.387 glxext_init INFO ] Extension GLX_EXT_texture_from_pixmap - present
+[ 11/28/2024 12:54:23.387 glxext_init INFO ] Extension GLX_ARB_create_context - present
+[ 11/28/2024 12:54:23.387 glxext_init INFO ] Extension GLX_EXT_buffer_age - present
+[ 11/28/2024 12:54:23.387 glxext_init INFO ] Extension GLX_ARB_create_context_robustness - present
+[ 11/28/2024 12:54:23.387 glxext_init INFO ] Extension GLX_MESA_query_renderer - absent
+[ 11/28/2024 12:54:23.440 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/28/2024 12:58:34.794 glxext_init INFO ] Extension GLX_SGI_video_sync - present
+[ 11/28/2024 12:58:34.794 glxext_init INFO ] Extension GLX_SGI_swap_control - present
+[ 11/28/2024 12:58:34.794 glxext_init INFO ] Extension GLX_OML_sync_control - absent
+[ 11/28/2024 12:58:34.794 glxext_init INFO ] Extension GLX_MESA_swap_control - absent
+[ 11/28/2024 12:58:34.794 glxext_init INFO ] Extension GLX_EXT_swap_control - present
+[ 11/28/2024 12:58:34.794 glxext_init INFO ] Extension GLX_EXT_texture_from_pixmap - present
+[ 11/28/2024 12:58:34.794 glxext_init INFO ] Extension GLX_ARB_create_context - present
+[ 11/28/2024 12:58:34.794 glxext_init INFO ] Extension GLX_EXT_buffer_age - present
+[ 11/28/2024 12:58:34.794 glxext_init INFO ] Extension GLX_ARB_create_context_robustness - present
+[ 11/28/2024 12:58:34.794 glxext_init INFO ] Extension GLX_MESA_query_renderer - absent
+[ 11/28/2024 12:58:34.839 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/28/2024 12:59:26.453 glxext_init INFO ] Extension GLX_SGI_video_sync - present
+[ 11/28/2024 12:59:26.454 glxext_init INFO ] Extension GLX_SGI_swap_control - present
+[ 11/28/2024 12:59:26.454 glxext_init INFO ] Extension GLX_OML_sync_control - absent
+[ 11/28/2024 12:59:26.454 glxext_init INFO ] Extension GLX_MESA_swap_control - absent
+[ 11/28/2024 12:59:26.454 glxext_init INFO ] Extension GLX_EXT_swap_control - present
+[ 11/28/2024 12:59:26.454 glxext_init INFO ] Extension GLX_EXT_texture_from_pixmap - present
+[ 11/28/2024 12:59:26.454 glxext_init INFO ] Extension GLX_ARB_create_context - present
+[ 11/28/2024 12:59:26.454 glxext_init INFO ] Extension GLX_EXT_buffer_age - present
+[ 11/28/2024 12:59:26.454 glxext_init INFO ] Extension GLX_ARB_create_context_robustness - present
+[ 11/28/2024 12:59:26.454 glxext_init INFO ] Extension GLX_MESA_query_renderer - absent
+[ 11/28/2024 12:59:26.506 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/28/2024 12:59:33.503 configure_root INFO ] Root configuration changed, new geometry: 4480x1600
+[ 11/28/2024 12:59:33.503 configure_root INFO ] Root configuration changed, new geometry: 4480x1600
+[ 11/28/2024 12:59:38.086 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/28/2024 12:59:38.086 main FATAL ERROR ] Failed to create new session.
+[ 11/29/2024 06:24:33.328 glxext_init INFO ] Extension GLX_SGI_video_sync - present
+[ 11/29/2024 06:24:33.329 glxext_init INFO ] Extension GLX_SGI_swap_control - present
+[ 11/29/2024 06:24:33.329 glxext_init INFO ] Extension GLX_OML_sync_control - absent
+[ 11/29/2024 06:24:33.329 glxext_init INFO ] Extension GLX_MESA_swap_control - absent
+[ 11/29/2024 06:24:33.329 glxext_init INFO ] Extension GLX_EXT_swap_control - present
+[ 11/29/2024 06:24:33.329 glxext_init INFO ] Extension GLX_EXT_texture_from_pixmap - present
+[ 11/29/2024 06:24:33.329 glxext_init INFO ] Extension GLX_ARB_create_context - present
+[ 11/29/2024 06:24:33.329 glxext_init INFO ] Extension GLX_EXT_buffer_age - present
+[ 11/29/2024 06:24:33.329 glxext_init INFO ] Extension GLX_ARB_create_context_robustness - present
+[ 11/29/2024 06:24:33.329 glxext_init INFO ] Extension GLX_MESA_query_renderer - absent
+[ 11/29/2024 06:24:33.396 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/29/2024 06:24:43.296 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/29/2024 06:24:43.296 main FATAL ERROR ] Failed to create new session.
+[ 11/29/2024 07:25:08.827 glxext_init INFO ] Extension GLX_SGI_video_sync - present
+[ 11/29/2024 07:25:08.827 glxext_init INFO ] Extension GLX_SGI_swap_control - present
+[ 11/29/2024 07:25:08.827 glxext_init INFO ] Extension GLX_OML_sync_control - absent
+[ 11/29/2024 07:25:08.827 glxext_init INFO ] Extension GLX_MESA_swap_control - absent
+[ 11/29/2024 07:25:08.827 glxext_init INFO ] Extension GLX_EXT_swap_control - present
+[ 11/29/2024 07:25:08.827 glxext_init INFO ] Extension GLX_EXT_texture_from_pixmap - present
+[ 11/29/2024 07:25:08.827 glxext_init INFO ] Extension GLX_ARB_create_context - present
+[ 11/29/2024 07:25:08.827 glxext_init INFO ] Extension GLX_EXT_buffer_age - present
+[ 11/29/2024 07:25:08.827 glxext_init INFO ] Extension GLX_ARB_create_context_robustness - present
+[ 11/29/2024 07:25:08.827 glxext_init INFO ] Extension GLX_MESA_query_renderer - absent
+[ 11/29/2024 07:25:08.896 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/29/2024 07:25:18.201 configure_root INFO ] Root configuration changed, new geometry: 4480x1600
+[ 11/29/2024 07:25:18.201 configure_root INFO ] Root configuration changed, new geometry: 4480x1600
+[ 11/29/2024 07:25:22.477 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/29/2024 07:25:22.477 main FATAL ERROR ] Failed to create new session.
+[ 11/29/2024 13:52:10.271 configure_root INFO ] Root configuration changed, new geometry: 2560x1600
+[ 11/29/2024 13:52:10.272 configure_root INFO ] Root configuration changed, new geometry: 2560x1600
+[ 11/29/2024 13:52:12.691 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/29/2024 13:52:12.691 main FATAL ERROR ] Failed to create new session.
+[ 11/29/2024 15:15:18.944 configure_root INFO ] Root configuration changed, new geometry: 4480x1600
+[ 11/29/2024 15:15:18.945 configure_root INFO ] Root configuration changed, new geometry: 4480x1600
+[ 11/29/2024 15:15:23.562 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/29/2024 15:15:23.562 main FATAL ERROR ] Failed to create new session.
+[ 11/29/2024 18:01:45.701 glxext_init INFO ] Extension GLX_SGI_video_sync - present
+[ 11/29/2024 18:01:45.702 glxext_init INFO ] Extension GLX_SGI_swap_control - present
+[ 11/29/2024 18:01:45.702 glxext_init INFO ] Extension GLX_OML_sync_control - absent
+[ 11/29/2024 18:01:45.702 glxext_init INFO ] Extension GLX_MESA_swap_control - absent
+[ 11/29/2024 18:01:45.702 glxext_init INFO ] Extension GLX_EXT_swap_control - present
+[ 11/29/2024 18:01:45.702 glxext_init INFO ] Extension GLX_EXT_texture_from_pixmap - present
+[ 11/29/2024 18:01:45.702 glxext_init INFO ] Extension GLX_ARB_create_context - present
+[ 11/29/2024 18:01:45.702 glxext_init INFO ] Extension GLX_EXT_buffer_age - present
+[ 11/29/2024 18:01:45.702 glxext_init INFO ] Extension GLX_ARB_create_context_robustness - present
+[ 11/29/2024 18:01:45.702 glxext_init INFO ] Extension GLX_MESA_query_renderer - absent
+[ 11/29/2024 18:01:45.772 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/30/2024 09:08:58.162 glxext_init INFO ] Extension GLX_SGI_video_sync - present
+[ 11/30/2024 09:08:58.162 glxext_init INFO ] Extension GLX_SGI_swap_control - present
+[ 11/30/2024 09:08:58.162 glxext_init INFO ] Extension GLX_OML_sync_control - absent
+[ 11/30/2024 09:08:58.162 glxext_init INFO ] Extension GLX_MESA_swap_control - absent
+[ 11/30/2024 09:08:58.162 glxext_init INFO ] Extension GLX_EXT_swap_control - present
+[ 11/30/2024 09:08:58.162 glxext_init INFO ] Extension GLX_EXT_texture_from_pixmap - present
+[ 11/30/2024 09:08:58.162 glxext_init INFO ] Extension GLX_ARB_create_context - present
+[ 11/30/2024 09:08:58.162 glxext_init INFO ] Extension GLX_EXT_buffer_age - present
+[ 11/30/2024 09:08:58.162 glxext_init INFO ] Extension GLX_ARB_create_context_robustness - present
+[ 11/30/2024 09:08:58.162 glxext_init INFO ] Extension GLX_MESA_query_renderer - absent
+[ 11/30/2024 09:08:58.213 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 11/30/2024 09:09:46.764 configure_root INFO ] Root configuration changed, new geometry: 2560x1600
+[ 11/30/2024 09:19:06.671 configure_root INFO ] Root configuration changed, new geometry: 6000x1600
+[ 11/30/2024 09:19:06.671 configure_root INFO ] Root configuration changed, new geometry: 6000x1600
+[ 11/30/2024 09:19:06.671 configure_root INFO ] Root configuration changed, new geometry: 6000x1600
+[ 11/30/2024 09:19:20.927 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/30/2024 09:19:20.927 main FATAL ERROR ] Failed to create new session.
+[ 11/30/2024 11:14:22.377 configure_root INFO ] Root configuration changed, new geometry: 6000x1600
+[ 11/30/2024 11:14:55.783 configure_root INFO ] Root configuration changed, new geometry: 6000x1600
+[ 11/30/2024 11:15:02.819 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/30/2024 11:15:02.819 main FATAL ERROR ] Failed to create new session.
+[ 11/30/2024 12:30:17.689 configure_root INFO ] Root configuration changed, new geometry: 6000x1600
+[ 11/30/2024 12:30:33.927 configure_root INFO ] Root configuration changed, new geometry: 2560x1600
+[ 11/30/2024 12:30:37.528 configure_root INFO ] Root configuration changed, new geometry: 6000x1600
+[ 11/30/2024 12:30:37.528 configure_root INFO ] Root configuration changed, new geometry: 6000x1600
+[ 11/30/2024 12:31:34.521 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/30/2024 12:31:34.521 main FATAL ERROR ] Failed to create new session.
+[ 11/30/2024 15:39:19.191 configure_root INFO ] Root configuration changed, new geometry: 6000x1600
+[ 11/30/2024 15:39:40.580 configure_root INFO ] Root configuration changed, new geometry: 6000x1600
+[ 11/30/2024 15:40:36.171 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/30/2024 15:40:36.171 main FATAL ERROR ] Failed to create new session.
