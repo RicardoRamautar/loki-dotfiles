@@ -4795,3 +4795,17 @@
 [ 03/07/2025 11:05:49.266 main FATAL ERROR ] Failed to create new session.
 [ 03/07/2025 11:07:06.971 reset_enable INFO ] picom is resetting...
 [ 03/07/2025 11:07:07.037 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 03/07/2025 11:11:20.904 reset_enable INFO ] picom is resetting...
+[ 03/07/2025 11:12:16.884 glxext_init INFO ] Extension GLX_SGI_video_sync - present
+[ 03/07/2025 11:12:16.884 glxext_init INFO ] Extension GLX_SGI_swap_control - present
+[ 03/07/2025 11:12:16.884 glxext_init INFO ] Extension GLX_OML_sync_control - absent
+[ 03/07/2025 11:12:16.884 glxext_init INFO ] Extension GLX_MESA_swap_control - absent
+[ 03/07/2025 11:12:16.884 glxext_init INFO ] Extension GLX_EXT_swap_control - present
+[ 03/07/2025 11:12:16.884 glxext_init INFO ] Extension GLX_EXT_texture_from_pixmap - present
+[ 03/07/2025 11:12:16.884 glxext_init INFO ] Extension GLX_ARB_create_context - present
+[ 03/07/2025 11:12:16.884 glxext_init INFO ] Extension GLX_EXT_buffer_age - present
+[ 03/07/2025 11:12:16.884 glxext_init INFO ] Extension GLX_ARB_create_context_robustness - present
+[ 03/07/2025 11:12:16.884 glxext_init INFO ] Extension GLX_MESA_query_renderer - absent
+[ 03/07/2025 11:12:16.954 gl_init INFO ] GL vendor is NVIDIA, enable xrender sync fence.
+[ 03/07/2025 11:12:22.680 session_init FATAL ERROR ] Another composite manager is already running
+[ 03/07/2025 11:12:22.680 main FATAL ERROR ] Failed to create new session.
