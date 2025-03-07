@@ -114,6 +114,11 @@ bindsym $mod+Shift+space floating toggle
 # change focus between tiling / floating windows
 bindsym $mod+space focus mode_toggle
 
+for_window [title="Model-based edge tracker"] floating enable
+for_window [title="tkinter_window"] floating enable
+for_window [title="matplotlib"] floating enable
+for_window [title="Figure 1"] floating enable
+
 # focus the parent container
 bindsym $mod+a focus parent
 
@@ -122,6 +127,9 @@ bindsym F10 exec --no-startup-id amixer -D pulse sset Master 10%+ unmute
 
 # Take a screenshot
 bindsym --release Print exec --no-startup-id /usr/bin/import ~/Pictures/Screenshots/$(date +%Y%m%d-%H:%M:%S).png
+# bindsym --release Ctrl+Shift+Print exec scrot -s -f -o "/tmp/image.png" && xclip -selection clipboard -t image/png -i /tmp/image.png
+
+bindsym $mod+p exec --no-startup-id /usr/bin/import ~/Pictures/Screenshots/$(date +%Y%m%d-%H:%M:%S).png
 # bindsym --release Print exec --no-startup-id scrot -e 'xclip -selection c -t image/png < $f'
 
 # focus the child container
@@ -138,7 +146,7 @@ set $ws6 "6"
 set $ws7 "7"
 set $ws8 "8"
 set $ws9 "9"
-set $ws10 "10"
+set $ws10 "󱙝"
 
 # switch to workspace
 bindsym $mod+1 workspace $ws1
@@ -150,7 +158,7 @@ bindsym $mod+6 workspace number $ws6
 bindsym $mod+7 workspace number $ws7
 bindsym $mod+8 workspace number $ws8
 bindsym $mod+9 workspace number $ws9
-bindsym $mod+0 workspace number $ws10
+bindsym $mod+0 workspace $ws10
 
 # move focused container to workspace
 bindsym $mod+Shift+1 move container to workspace $ws1
@@ -162,7 +170,7 @@ bindsym $mod+Shift+6 move container to workspace number $ws6
 bindsym $mod+Shift+7 move container to workspace number $ws7
 bindsym $mod+Shift+8 move container to workspace number $ws8
 bindsym $mod+Shift+9 move container to workspace number $ws9
-bindsym $mod+Shift+0 move container to workspace number $ws10
+bindsym $mod+Shift+0 move container to workspace  $ws10
 
 # cycle between workspace
 bindsym $mod+Ctrl+l     workspace next
@@ -214,15 +222,14 @@ bindsym $mod+r mode "resize"
 # default_border pixel 3
 
 # Border color for focused windows - 1. border color - 2. background window title bar - 3. text window titlebar - 4. indicator color
-client.focused          #BFECFF #BFECFF #BFECFF #BFECFF
+client.focused          #00BFECFF #00BFECFF #00BFECFF #00BFECFF
 client.focused_inactive #00566573  #00566573  #00566573  #00566573 
-client.unfocused        #00566573  #00566573  #00566573  #00566573 
-client.urgent           #900000 #900000 #ffffff #900000
-
- #00566573 
+client.unfocused        #00BFEC00  #00BFEC00  #00BFEC00  #00BFEC00 
+client.urgent           #900000 #900000 #ffffff #900000 
 
 # Set border size
-for_window [class=".*"] border pixel 3
+for_window [class=".*"] border pixel 0
+# for_window [class=".*"] border pixel 1
 
 
 
@@ -231,3 +238,6 @@ bindsym $mod+Return exec rofi -show drun
 
 # Use xborders to set rounded corners and border
 # exec --no-startup-id /home/rdr/.config/xborder/xborders --border-width 3 --border-radius 20 --border-rgba "#00FF00AA" --border-mode "outside"
+
+# exec_always --no-startup-id /home/rdr/.config/xborder/xborders --border-width 4 --border-radius 20 --border-rgba "#00FF00AA"
+exec_always --no-startup-id /home/rdr/.config/xborder/xborders --config /home/rdr/.config/xborder/config.json
